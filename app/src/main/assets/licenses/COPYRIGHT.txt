@@ -1,0 +1,11 @@
+Shotegy Android
+Copyright (C) 2026 Hiroshi33XX and contributors.
+
+Original Android source code and original bundled artwork are licensed under
+GPL-3.0-only unless a file or THIRD_PARTY_NOTICES.md says otherwise.
+Copyright ownership is retained by the respective rights holders.
+No trademark rights are granted; see TRADEMARKS.md.
+
+The separate Shotegy iOS app, its private repository, unpublished assets,
+service credentials and signing keys are outside this distribution.
+Third-party software and fonts retain their own licenses and notices.

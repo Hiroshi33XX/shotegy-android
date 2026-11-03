@@ -1,0 +1,3774 @@
+{
+  "\n\n联系方式：%@": {
+    "en": "\n\nContact: %@",
+    "zh-Hant": "\n\n聯繫方式：%@"
+  },
+  "—": {
+    "en": "—",
+    "zh-Hant": "—"
+  },
+  ".shotegy 文件包含项目数据和本地图片": {
+    "en": ".shotegy file with project data and local images",
+    "zh-Hant": ".shotegy 文件包含項目數據和本地圖片"
+  },
+  "·": {
+    "en": "·",
+    "zh-Hant": "·"
+  },
+  "“永久”指该非消耗型商品可使用原 App Store 账号恢复；不代表所有未来新增功能均自动包含，也不跨平台互通。": {
+    "en": "“Lifetime” means this non-consumable purchase can be restored with the original App Store account. It does not include every future feature or apply across platforms.",
+    "zh-Hant": "“永久”指該非消耗型商品可使用原 App Store 賬號恢復；不代表所有未來新增功能均自動包含，也不跨平臺互通。"
+  },
+  "[拍序反馈] %@": {
+    "en": "[Shotegy Feedback] %@",
+    "zh-Hant": "[拍序反饋] %@"
+  },
+  "%@ · 太阳方向预测": {
+    "en": "%@ · Sun direction forecast",
+    "zh-Hant": "%@ · 太陽方向預測"
+  },
+  "%@ 副本": {
+    "en": "%@ Copy",
+    "zh-Hant": "%@ 副本"
+  },
+  "%@ 永久解锁": {
+    "en": "Unlock Forever · %@",
+    "zh-Hant": "%@ 永久解鎖"
+  },
+  "%@_策划案.pdf": {
+    "en": "%@_Plan.pdf",
+    "zh-Hant": "%@_策劃案.pdf"
+  },
+  "%@_策划长图.png": {
+    "en": "%@_Plan.png",
+    "zh-Hant": "%@_策劃長圖.png"
+  },
+  "%@_脚本_%02d.jpg": {
+    "en": "%@_Shot_%02d.jpg",
+    "zh-Hant": "%@_腳本_%02d.jpg"
+  },
+  "%@_逐条脚本图.zip": {
+    "en": "%@_Shot_Images.zip",
+    "zh-Hant": "%@_逐條腳本圖.zip"
+  },
+  "%@_长图_%02d.jpg": {
+    "en": "%@_Long_Image_%02d.jpg",
+    "zh-Hant": "%@_長圖_%02d.jpg"
+  },
+  "%@_项目准备_%02d.jpg": {
+    "en": "%@_preparation_%02d.jpg",
+    "zh-Hant": "%@_項目準備_%02d.jpg"
+  },
+  "%@–%@": {
+    "en": "%@–%@",
+    "zh-Hant": "%@–%@"
+  },
+  "%@（导入）": {
+    "en": "%@ (Imported)",
+    "zh-Hant": "%@（導入）"
+  },
+  "%d 个服装颜色": {
+    "en": "%d clothing colors",
+    "zh-Hant": "%d 個服裝顏色"
+  },
+  "%d 张造型参考": {
+    "en": "%d styling references",
+    "zh-Hant": "%d 張造型參考"
+  },
+  "%d 项拍摄安排": {
+    "en": "%d photo shoots",
+    "zh-Hant": "%d 項拍攝安排"
+  },
+  "%lld": {
+    "en": "%lld",
+    "zh-Hant": "%lld"
+  },
+  "%lld / %lld": {
+    "en": "%lld / %lld",
+    "zh-Hant": "%lld / %lld"
+  },
+  "%lld 个内容": {
+    "en": "%lld items",
+    "zh-Hant": "%lld 個內容"
+  },
+  "%lld 张拍摄脚本": {
+    "en": "%lld shots",
+    "zh-Hant": "%lld 張拍攝腳本"
+  },
+  "%lld 项": {
+    "en": "%lld items",
+    "zh-Hant": "%lld 項"
+  },
+  "%lld. %@": {
+    "en": "%lld. %@",
+    "zh-Hant": "%lld. %@"
+  },
+  "%lld/%lld": {
+    "en": "%lld/%lld",
+    "zh-Hant": "%lld/%lld"
+  },
+  "%lld%@": {
+    "en": "%lld%@",
+    "zh-Hant": "%lld%@"
+  },
+  "+%lld": {
+    "en": "+%lld",
+    "zh-Hant": "+%lld"
+  },
+  "±%lld°": {
+    "en": "±%lld°",
+    "zh-Hant": "±%lld°"
+  },
+  "App Store 暂未返回商品，请确认 App Store Connect 中的产品 ID。": {
+    "en": "The App Store did not return this product. Check the product ID in App Store Connect.",
+    "zh-Hant": "App Store 暫未返回商品，請確認 App Store Connect 中的產品 ID。"
+  },
+  "App Store 暂未返回拍序 Pro 商品，请稍后重试。": {
+    "en": "The App Store didn't return the Shotegy Pro product. Please try again later.",
+    "zh-Hant": "App Store 暫未返回拍序 Pro 商品，請稍後重試。"
+  },
+  "App Store 返回了无法识别的商品，请稍后重试。": {
+    "en": "The App Store returned an unrecognized product. Please try again later.",
+    "zh-Hant": "App Store 返回了無法識別的商品，請稍後重試。"
+  },
+  "App 版本：%@": {
+    "en": "App Version: %@",
+    "zh-Hant": "App 版本：%@"
+  },
+  "Hex": {
+    "en": "Hex",
+    "zh-Hant": "Hex"
+  },
+  "Hex（例如 #F1EBDD）": {
+    "en": "Hex (for example, #F1EBDD)",
+    "zh-Hant": "Hex（例如 #F1EBDD）"
+  },
+  "Noto Sans SC / Noto Serif SC": {
+    "en": "Noto Sans SC / Noto Serif SC",
+    "zh-Hant": "Noto Sans SC / Noto Serif SC"
+  },
+  "Noto 字体许可": {
+    "en": "Noto Font License",
+    "zh-Hant": "Noto 字體許可"
+  },
+  "PDF 导出": {
+    "en": "PDF Export",
+    "zh-Hant": "PDF 導出"
+  },
+  "Pro": {
+    "en": "Pro",
+    "zh-Hant": "Pro"
+  },
+  "Pro 已启用": {
+    "en": "Pro Active",
+    "zh-Hant": "Pro 已啓用"
+  },
+  "SHOTEGY · 由拍序生成": {
+    "en": "SHOTEGY · Created with Shotegy",
+    "zh-Hant": "SHOTEGY · 由拍序生成"
+  },
+  "ZIPFoundation": {
+    "en": "ZIPFoundation",
+    "zh-Hant": "ZIPFoundation"
+  },
+  "ZIPFoundation 许可": {
+    "en": "ZIPFoundation License",
+    "zh-Hant": "ZIPFoundation 許可"
+  },
+  "一次性": {
+    "en": "One-time",
+    "zh-Hant": "一次性"
+  },
+  "一次购买，永久解锁当前列出的 Pro 功能": {
+    "en": "One purchase permanently unlocks the Pro features listed here",
+    "zh-Hant": "一次購買，永久解鎖當前列出的 Pro 功能"
+  },
+  "三角配色": {
+    "en": "Triadic colors",
+    "zh-Hant": "三角配色"
+  },
+  "上个月": {
+    "en": "Previous month",
+    "zh-Hant": "上個月"
+  },
+  "下个月": {
+    "en": "Next month",
+    "zh-Hant": "下個月"
+  },
+  "不会影响已经从模板创建的真实项目。": {
+    "en": "Projects already created from this template will not be affected.",
+    "zh-Hant": "不會影響已經從模板創建的真實項目。"
+  },
+  "不包含": {
+    "en": "Not Included",
+    "zh-Hant": "不包含"
+  },
+  "不支持的%@备份版本": {
+    "en": "Unsupported %@ backup version",
+    "zh-Hant": "不支持的%@備份版本"
+  },
+  "不支持的文件类型": {
+    "en": "Unsupported file type",
+    "zh-Hant": "不支持的文件類型"
+  },
+  "与“%@”%@ 时间重叠。": {
+    "en": "Overlaps with “%@” %@.",
+    "zh-Hant": "與“%@”%@ 時間重疊。"
+  },
+  "中性色": {
+    "en": "Neutral colors",
+    "zh-Hant": "中性色"
+  },
+  "中景": {
+    "en": "Medium shot",
+    "zh-Hant": "中景"
+  },
+  "主题": {
+    "en": "Theme",
+    "zh-Hant": "主題"
+  },
+  "也可以通过下方 HSL 滑块调整颜色": {
+    "en": "You can also adjust the color with the HSL sliders below",
+    "zh-Hant": "也可以通過下方 HSL 滑塊調整顏色"
+  },
+  "互补色": {
+    "en": "Complementary color",
+    "zh-Hant": "互補色"
+  },
+  "交付与分享": {
+    "en": "Delivery & Sharing",
+    "zh-Hant": "交付與分享"
+  },
+  "交易未通过 StoreKit 验证": {
+    "en": "The transaction could not be verified by StoreKit",
+    "zh-Hant": "交易未通過 StoreKit 驗證"
+  },
+  "人像摄影策划助手": {
+    "en": "A portrait shoot planner",
+    "zh-Hant": "人像攝影策劃助手"
+  },
+  "人物": {
+    "en": "People",
+    "zh-Hant": "人物"
+  },
+  "仅影响日历中的显示，不修改项目名称。": {
+    "en": "Only changes the calendar display, not the project name.",
+    "zh-Hant": "僅影響日曆中的顯示，不修改項目名稱。"
+  },
+  "仅用于策划长图，以小图展示所有参考图，不显示拍摄方法和踩点图。": {
+    "en": "Applies to planning long images only. Shows all references as small photos, without techniques or scouting photos.",
+    "zh-Hant": "僅用於策劃長圖，以小圖展示所有參考圖，不顯示拍攝方法和踩點圖。"
+  },
+  "仅用于策划长图，按拍摄顺序展示完整卡片。": {
+    "en": "Applies to planning long images only. Shows full cards in shooting order.",
+    "zh-Hant": "僅用於策劃長圖，按拍攝順序展示完整卡片。"
+  },
+  "仅看未拍": {
+    "en": "Unshot Only",
+    "zh-Hant": "僅看未拍"
+  },
+  "仅设置日期": {
+    "en": "Date only",
+    "zh-Hant": "僅設置日期"
+  },
+  "今天": {
+    "en": "Today",
+    "zh-Hant": "今天"
+  },
+  "从拍序完整备份恢复全部内容": {
+    "en": "Restore all content from a full Shotegy backup",
+    "zh-Hant": "從拍序完整備份恢復全部內容"
+  },
+  "从此收藏夹移除": {
+    "en": "Remove from This Collection",
+    "zh-Hant": "從此收藏夾移除"
+  },
+  "从照片取色": {
+    "en": "Extract photo color",
+    "zh-Hant": "從照片取色"
+  },
+  "从相册取色": {
+    "en": "Choose photo for color",
+    "zh-Hant": "從相冊取色"
+  },
+  "从相册选择": {
+    "en": "Choose from Photos",
+    "zh-Hant": "從相冊選擇"
+  },
+  "从相册选择的图片不包含可靠的现场朝向信息，请直接拍摄踩点图后再使用太阳方向计算。": {
+    "en": "Photos selected from the library do not contain reliable on-site direction data. Take a scout photo before calculating sun direction.",
+    "zh-Hant": "從相冊選擇的圖片不包含可靠的現場朝向信息，請直接拍攝踩點圖後再使用太陽方向計算。"
+  },
+  "从资源库选择": {
+    "en": "Choose from Library",
+    "zh-Hant": "從資源庫選擇"
+  },
+  "从项目信息到拍摄脚本，把准备工作集中在一个地方。": {
+    "en": "Keep project details and shot lists together in one place.",
+    "zh-Hant": "從項目信息到拍攝腳本，把準備工作集中在一個地方。"
+  },
+  "从项目模板新建": {
+    "en": "New from Template",
+    "zh-Hant": "從項目模板新建"
+  },
+  "传统旗袍": {
+    "en": "Traditional qipao",
+    "zh-Hant": "傳統旗袍"
+  },
+  "你的项目数据没有被删除。请确认设备有足够存储空间后重新启动 App；如果问题持续，请保留下面的错误信息以便排查。\n\n%@": {
+    "en": "Your project data has not been deleted. Make sure your device has enough storage, then restart the app. If the issue persists, keep the error details below for troubleshooting.\n\n%@",
+    "zh-Hant": "你的項目數據沒有被刪除。請確認設備有足夠存儲空間後重新啓動 App；如果問題持續，請保留下面的錯誤信息以便排查。\n\n%@"
+  },
+  "使用指南": {
+    "en": "User Guide",
+    "zh-Hant": "使用指南"
+  },
+  "使用条款": {
+    "en": "Terms of Use",
+    "zh-Hant": "使用條款"
+  },
+  "使用模板新建项目": {
+    "en": "Create Project from Template",
+    "zh-Hant": "使用模板新建項目"
+  },
+  "使用长焦压缩背景，保留暖色逆光轮廓": {
+    "en": "Use a telephoto lens to compress the background and preserve the warm backlit outline",
+    "zh-Hant": "使用長焦壓縮背景，保留暖色逆光輪廓"
+  },
+  "使用默认标签颜色": {
+    "en": "Use default label color",
+    "zh-Hant": "使用默認標籤顏色"
+  },
+  "例如：夏日河畔": {
+    "en": "e.g. Summer by the River",
+    "zh-Hant": "例如：夏日河畔"
+  },
+  "例如：拿花向前走，回头看镜头": {
+    "en": "e.g. Walk forward holding the flowers, then look back at the camera",
+    "zh-Hant": "例如：拿花向前走，回頭看鏡頭"
+  },
+  "例如：河畔黄昏人像": {
+    "en": "e.g. Riverside Sunset Portraits",
+    "zh-Hant": "例如：河畔黃昏人像"
+  },
+  "例如：清冷、自然，表现松弛": {
+    "en": "For example: Cool, natural, relaxed expressions",
+    "zh-Hant": "例如：清冷、自然，表現鬆弛"
+  },
+  "例如：自然、松弛、暖色逆光": {
+    "en": "e.g. Natural, relaxed, warm backlight",
+    "zh-Hant": "例如：自然、鬆弛、暖色逆光"
+  },
+  "例如：草地、林间、湖边": {
+    "en": "For example: Meadow, Woods, Lakeside",
+    "zh-Hant": "例如：草地、林間、湖邊"
+  },
+  "例如：薄云或阴天，最好有一点风": {
+    "en": "For example: Light clouds or overcast, with a little wind",
+    "zh-Hant": "例如：薄雲或陰天，最好有一點風"
+  },
+  "例如：逆光拍摄，用反光板补脸": {
+    "en": "e.g. Shoot backlit and use a reflector to fill the face",
+    "zh-Hant": "例如：逆光拍攝，用反光板補臉"
+  },
+  "保存": {
+    "en": "Save",
+    "zh-Hant": "保存"
+  },
+  "保存修改": {
+    "en": "Save Changes",
+    "zh-Hant": "保存修改"
+  },
+  "保存到资源库": {
+    "en": "Save to Library",
+    "zh-Hant": "保存到資源庫"
+  },
+  "保存机位": {
+    "en": "Save Location",
+    "zh-Hant": "保存機位"
+  },
+  "保留中式元素，以现代剪裁呈现，适合日常拍摄。": {
+    "en": "Traditional Chinese details with modern tailoring for everyday photography.",
+    "zh-Hant": "保留中式元素，以現代剪裁呈現，適合日常拍攝。"
+  },
+  "修身旗袍": {
+    "en": "Fitted qipao",
+    "zh-Hant": "修身旗袍"
+  },
+  "停车、合同或其他无法归类的信息": {
+    "en": "Parking, contracts, or other notes",
+    "zh-Hant": "停車、合同或其他無法歸類的信息"
+  },
+  "免费版": {
+    "en": "Free",
+    "zh-Hant": "免費版"
+  },
+  "免费版与 Pro": {
+    "en": "Free vs Pro",
+    "zh-Hant": "免費版與 Pro"
+  },
+  "全部": {
+    "en": "All",
+    "zh-Hant": "全部"
+  },
+  "全部内容": {
+    "en": "All Content",
+    "zh-Hant": "全部內容"
+  },
+  "全部收藏夹": {
+    "en": "All Collections",
+    "zh-Hant": "全部收藏夾"
+  },
+  "全部日程": {
+    "en": "All Events",
+    "zh-Hant": "全部日程"
+  },
+  "全部状态": {
+    "en": "All statuses",
+    "zh-Hant": "全部狀態"
+  },
+  "全部项目、图片、机位和资源库": {
+    "en": "All projects, images, scout locations, and library items",
+    "zh-Hant": "全部項目、圖片、機位和資源庫"
+  },
+  "共 %lld 张参考图": {
+    "en": "%lld reference images in total",
+    "zh-Hant": "共 %lld 張參考圖"
+  },
+  "关于拍序": {
+    "en": "About Shotegy",
+    "zh-Hant": "關於拍序"
+  },
+  "关闭": {
+    "en": "Close",
+    "zh-Hant": "關閉"
+  },
+  "关闭“仅看未拍”可查看全部脚本。": {
+    "en": "Turn off “Unshot Only” to see all shots.",
+    "zh-Hant": "關閉“僅看未拍”可查看全部腳本。"
+  },
+  "其他": {
+    "en": "More",
+    "zh-Hant": "其他"
+  },
+  "具体服装": {
+    "en": "Clothing details",
+    "zh-Hant": "具體服裝"
+  },
+  "最多 3 个": {
+    "en": "Up to 3",
+    "zh-Hant": "最多 3 個"
+  },
+  "分享给好友": {
+    "en": "Share with Friends",
+    "zh-Hant": "分享給好友"
+  },
+  "分类": {
+    "en": "Classification",
+    "zh-Hant": "分類"
+  },
+  "切换筛选条件，或新建一份项目。": {
+    "en": "Change the filter or create a project.",
+    "zh-Hant": "切換篩選條件，或新建一份項目。"
+  },
+  "切换脚本显示方式": {
+    "en": "Change shot list layout",
+    "zh-Hant": "切換腳本顯示方式"
+  },
+  "创建": {
+    "en": "Create",
+    "zh-Hant": "創建"
+  },
+  "删除": {
+    "en": "Delete",
+    "zh-Hant": "刪除"
+  },
+  "删除 %lld 个项目？": {
+    "en": "Delete %lld projects?",
+    "zh-Hant": "刪除 %lld 個項目？"
+  },
+  "删除 %lld 项资源？": {
+    "en": "Delete %lld library items?",
+    "zh-Hant": "刪除 %lld 項資源？"
+  },
+  "删除“%@”？": {
+    "en": "Delete “%@”?",
+    "zh-Hant": "刪除“%@”？"
+  },
+  "删除参考图": {
+    "en": "Delete reference",
+    "zh-Hant": "刪除參考圖"
+  },
+  "删除拍摄脚本": {
+    "en": "Delete Shot",
+    "zh-Hant": "刪除拍攝腳本"
+  },
+  "删除收藏夹": {
+    "en": "Delete Collection",
+    "zh-Hant": "刪除收藏夾"
+  },
+  "删除收藏夹？": {
+    "en": "Delete Collection?",
+    "zh-Hant": "刪除收藏夾？"
+  },
+  "删除机位": {
+    "en": "Delete Location",
+    "zh-Hant": "刪除機位"
+  },
+  "删除模板": {
+    "en": "Delete Template",
+    "zh-Hant": "刪除模板"
+  },
+  "删除资源": {
+    "en": "Delete Item",
+    "zh-Hant": "刪除資源"
+  },
+  "删除资源？": {
+    "en": "Delete Item?",
+    "zh-Hant": "刪除資源？"
+  },
+  "删除这个模板？": {
+    "en": "Delete This Template?",
+    "zh-Hant": "刪除這個模板？"
+  },
+  "删除这项拍摄脚本？": {
+    "en": "Delete This Shot?",
+    "zh-Hant": "刪除這項拍攝腳本？"
+  },
+  "删除项目": {
+    "en": "Delete Project",
+    "zh-Hant": "刪除項目"
+  },
+  "删除颜色": {
+    "en": "Delete color",
+    "zh-Hant": "刪除顏色"
+  },
+  "制服 / 学院": {
+    "en": "Uniform / Preppy",
+    "zh-Hant": "制服 / 學院"
+  },
+  "制服裙": {
+    "en": "Uniform skirt",
+    "zh-Hant": "制服裙"
+  },
+  "功能": {
+    "en": "Features",
+    "zh-Hant": "功能"
+  },
+  "加入其他收藏夹": {
+    "en": "Add to Another Collection",
+    "zh-Hant": "加入其他收藏夾"
+  },
+  "加入动作引导、参考图、拍摄方法和建议时间。": {
+    "en": "Add posing directions, references, techniques, and a suggested time.",
+    "zh-Hant": "加入動作引導、參考圖、拍攝方法和建議時間。"
+  },
+  "加入收藏夹": {
+    "en": "Add to Collection",
+    "zh-Hant": "加入收藏夾"
+  },
+  "动作与引导": {
+    "en": "Posing & Direction",
+    "zh-Hant": "動作與引導"
+  },
+  "动作与拍摄提示": {
+    "en": "Direction & Shooting Tips",
+    "zh-Hant": "動作與拍攝提示"
+  },
+  "动作引导": {
+    "en": "Posing Directions",
+    "zh-Hant": "動作引導"
+  },
+  "包含": {
+    "en": "Included",
+    "zh-Hant": "包含"
+  },
+  "协调柔和，更融入环境。": {
+    "en": "Soft and harmonious, blending with the environment.",
+    "zh-Hant": "協調柔和，更融入環境。"
+  },
+  "卡片显示": {
+    "en": "Card layout",
+    "zh-Hant": "卡片顯示"
+  },
+  "原有拍摄顺序将被调整。": {
+    "en": "The current shooting order will change.",
+    "zh-Hant": "原有拍攝順序將被調整。"
+  },
+  "参考图": {
+    "en": "References",
+    "zh-Hant": "參考圖"
+  },
+  "参考图 %lld": {
+    "en": "Reference %lld",
+    "zh-Hant": "參考圖 %lld"
+  },
+  "参考图无法读取": {
+    "en": "Reference image unavailable",
+    "zh-Hant": "參考圖無法讀取"
+  },
+  "反馈邮件已交给 Mail 发送。": {
+    "en": "Your feedback email has been handed to Mail for sending.",
+    "zh-Hant": "反饋郵件已交給 Mail 發送。"
+  },
+  "发型": {
+    "en": "Hair",
+    "zh-Hant": "髮型"
+  },
+  "发送前请检查内容，避免附带无关的客户隐私。": {
+    "en": "Review the content before sending and remove unrelated client information.",
+    "zh-Hant": "發送前請檢查內容，避免附帶無關的客戶隱私。"
+  },
+  "发送反馈": {
+    "en": "Send Feedback",
+    "zh-Hant": "發送反饋"
+  },
+  "取消": {
+    "en": "Cancel",
+    "zh-Hant": "取消"
+  },
+  "取消归档": {
+    "en": "Unarchive",
+    "zh-Hant": "取消歸檔"
+  },
+  "古着连衣裙": {
+    "en": "Vintage dress",
+    "zh-Hant": "古着連衣裙"
+  },
+  "只会删除收藏夹及收藏关系，资源本身仍会保留在全部资源或其他收藏夹中。": {
+    "en": "Only the collection and its associations will be deleted. Items will remain in All Items and other collections.",
+    "zh-Hant": "只會刪除收藏夾及收藏關係，資源本身仍會保留在全部資源或其他收藏夾中。"
+  },
+  "只删除收藏夹及收藏关系，资源本身仍会保留。": {
+    "en": "Only the collection and its associations will be deleted. The items will remain.",
+    "zh-Hant": "只刪除收藏夾及收藏關係，資源本身仍會保留。"
+  },
+  "可以查看、导出或取消归档；归档期间不能修改拍摄脚本。": {
+    "en": "You can view, export, or unarchive it. Shot lists cannot be edited while archived.",
+    "zh-Hant": "可以查看、導出或取消歸檔；歸檔期間不能修改拍攝腳本。"
+  },
+  "可在项目详情的更多菜单中把现有项目存为模板。": {
+    "en": "Save an existing project as a template from the More menu in project details.",
+    "zh-Hant": "可在項目詳情的更多菜單中把現有項目存爲模板。"
+  },
+  "可放宽方向容差，或选择其他光线类型。": {
+    "en": "Increase the direction tolerance or choose another lighting direction.",
+    "zh-Hant": "可放寬方向容差，或選擇其他光線類型。"
+  },
+  "可移除": {
+    "en": "Removable",
+    "zh-Hant": "可移除"
+  },
+  "右侧光": {
+    "en": "Light from Right",
+    "zh-Hant": "右側光"
+  },
+  "向前移动": {
+    "en": "Move earlier",
+    "zh-Hant": "向前移動"
+  },
+  "向后移动": {
+    "en": "Move later",
+    "zh-Hant": "向後移動"
+  },
+  "含参考图": {
+    "en": "With References",
+    "zh-Hant": "含參考圖"
+  },
+  "器材": {
+    "en": "Equipment",
+    "zh-Hant": "器材"
+  },
+  "图片": {
+    "en": "Image",
+    "zh-Hant": "圖片"
+  },
+  "图片无法载入": {
+    "en": "Unable to Load Image",
+    "zh-Hant": "圖片無法載入"
+  },
+  "图片类型": {
+    "en": "Image Type",
+    "zh-Hant": "圖片類型"
+  },
+  "在项目中设置拍摄日期后，会自动显示在这里。": {
+    "en": "Events appear here after you set a shoot date in a project.",
+    "zh-Hant": "在項目中設置拍攝日期後，會自動顯示在這裏。"
+  },
+  "地点": {
+    "en": "Location",
+    "zh-Hant": "地點"
+  },
+  "场景基色": {
+    "en": "Scene base color",
+    "zh-Hant": "場景基色"
+  },
+  "场景管理": {
+    "en": "Scenes",
+    "zh-Hant": "場景管理"
+  },
+  "场景色仅用于本次推荐，不保存到项目。点击色卡加入服装颜色。": {
+    "en": "The scene color is only used for these suggestions. Tap a swatch to add a clothing color.",
+    "zh-Hant": "場景色僅用於本次推薦，不保存到項目。點擊色卡加入服裝顏色。"
+  },
+  "坐在岸边整理头发，再望向水面": {
+    "en": "Sit by the bank, adjust your hair, then look toward the water",
+    "zh-Hant": "坐在岸邊整理頭髮，再望向水面"
+  },
+  "基本信息": {
+    "en": "Basic Info",
+    "zh-Hant": "基本信息"
+  },
+  "增强人物与背景的视觉区分。": {
+    "en": "Create a stronger separation between subject and background.",
+    "zh-Hant": "增強人物與背景的視覺區分。"
+  },
+  "备份中缺少 %@": {
+    "en": "Backup is missing %@",
+    "zh-Hant": "備份中缺少 %@"
+  },
+  "备份数据损坏或格式不正确": {
+    "en": "The backup is damaged or has an invalid format",
+    "zh-Hant": "備份數據損壞或格式不正確"
+  },
+  "备注": {
+    "en": "Notes",
+    "zh-Hant": "備註"
+  },
+  "复制": {
+    "en": "Duplicate",
+    "zh-Hant": "複製"
+  },
+  "复制拍摄脚本": {
+    "en": "Duplicate Shot",
+    "zh-Hant": "複製拍攝腳本"
+  },
+  "复制模板": {
+    "en": "Duplicate Template",
+    "zh-Hant": "複製模板"
+  },
+  "复制邮箱": {
+    "en": "Copy Email Address",
+    "zh-Hant": "複製郵箱"
+  },
+  "复古 / 古着": {
+    "en": "Retro / Vintage",
+    "zh-Hant": "復古 / 古着"
+  },
+  "复古外套": {
+    "en": "Vintage jacket",
+    "zh-Hant": "復古外套"
+  },
+  "复古衬衫": {
+    "en": "Retro shirt",
+    "zh-Hant": "復古襯衫"
+  },
+  "夏日河畔": {
+    "en": "Summer by the River",
+    "zh-Hant": "夏日河畔"
+  },
+  "外观": {
+    "en": "Appearance",
+    "zh-Hant": "外觀"
+  },
+  "外观与语言": {
+    "en": "Appearance & Language",
+    "zh-Hant": "外觀與語言"
+  },
+  "大图卡片": {
+    "en": "Large Cards",
+    "zh-Hant": "大圖卡片"
+  },
+  "太阳方位 %lld° · 高度 %lld° · 方向偏差 %lld°": {
+    "en": "Sun azimuth %1$lld° · elevation %2$lld° · direction offset %3$lld°",
+    "zh-Hant": "太陽方位 %lld° · 高度 %lld° · 方向偏差 %lld°"
+  },
+  "太阳方向与时间窗": {
+    "en": "Sun Direction & Time Window",
+    "zh-Hant": "太陽方向與時間窗"
+  },
+  "太阳方向时间窗": {
+    "en": "Sun Direction Time Windows",
+    "zh-Hant": "太陽方向時間窗"
+  },
+  "好": {
+    "en": "OK",
+    "zh-Hant": "好"
+  },
+  "妆容": {
+    "en": "Makeup",
+    "zh-Hant": "妝容"
+  },
+  "字体": {
+    "en": "Fonts",
+    "zh-Hant": "字體"
+  },
+  "存为项目模板": {
+    "en": "Save as Project Template",
+    "zh-Hant": "存爲項目模板"
+  },
+  "存到其他收藏夹": {
+    "en": "Save to Another Collection",
+    "zh-Hant": "存到其他收藏夾"
+  },
+  "完成": {
+    "en": "Done",
+    "zh-Hant": "完成"
+  },
+  "完成批量编辑": {
+    "en": "Finish Batch Editing",
+    "zh-Hant": "完成批量編輯"
+  },
+  "完整": {
+    "en": "Full",
+    "zh-Hant": "完整"
+  },
+  "完整备份": {
+    "en": "Full Backup",
+    "zh-Hant": "完整備份"
+  },
+  "完整数据备份": {
+    "en": "Full Data Backup",
+    "zh-Hant": "完整數據備份"
+  },
+  "官方网站": {
+    "en": "Official Website",
+    "zh-Hant": "官方網站"
+  },
+  "客户": {
+    "en": "Client",
+    "zh-Hant": "客戶"
+  },
+  "客户、日期、地点与联系方式会在根据模板创建项目后填写": {
+    "en": "Client, date, location, and contact details are added after creating a project from the template",
+    "zh-Hant": "客戶、日期、地點與聯繫方式會在根據模板創建項目後填寫"
+  },
+  "客户、联系方式、拍摄日期与时间、地点、日历标签与颜色会在创建真实项目后填写。": {
+    "en": "Add the client, contact, shoot date and time, location, calendar label, and color after creating a project.",
+    "zh-Hant": "客戶、聯繫方式、拍攝日期與時間、地點、日曆標籤與顏色會在創建真實項目後填寫。"
+  },
+  "宽松旗袍": {
+    "en": "Relaxed qipao",
+    "zh-Hant": "寬鬆旗袍"
+  },
+  "对比色": {
+    "en": "Contrasting colors",
+    "zh-Hant": "對比色"
+  },
+  "导入参考图": {
+    "en": "Import Reference",
+    "zh-Hant": "導入參考圖"
+  },
+  "导入后活跃项目将超过免费版最多 %lld 个的限制，无法导入。请先解锁拍序 Pro 后再试。": {
+    "en": "Importing would exceed the free limit of %lld active projects. Unlock Shotegy Pro before trying again.",
+    "zh-Hant": "導入後活躍項目將超過免費版最多 %lld 個的限制，無法導入。請先解鎖拍序 Pro 後再試。"
+  },
+  "导入失败": {
+    "en": "Import Failed",
+    "zh-Hant": "導入失敗"
+  },
+  "导入完成": {
+    "en": "Import Complete",
+    "zh-Hant": "導入完成"
+  },
+  "导入完整备份": {
+    "en": "Import Full Backup",
+    "zh-Hant": "導入完整備份"
+  },
+  "导入资源库文件": {
+    "en": "Import Library File",
+    "zh-Hant": "導入資源庫文件"
+  },
+  "导入项目文件": {
+    "en": "Import Project File",
+    "zh-Hant": "導入項目文件"
+  },
+  "导出 PDF": {
+    "en": "Export PDF",
+    "zh-Hant": "導出 PDF"
+  },
+  "导出内容": {
+    "en": "Export Content",
+    "zh-Hant": "導出內容"
+  },
+  "导出失败": {
+    "en": "Export Failed",
+    "zh-Hant": "導出失敗"
+  },
+  "导出排版": {
+    "en": "Export layout",
+    "zh-Hant": "導出排版"
+  },
+  "导出策划长图": {
+    "en": "Export Plan Image",
+    "zh-Hant": "導出策劃長圖"
+  },
+  "导出资源库": {
+    "en": "Export Library",
+    "zh-Hant": "導出資源庫"
+  },
+  "导出页脚": {
+    "en": "Export Footer",
+    "zh-Hant": "導出頁腳"
+  },
+  "导出项目": {
+    "en": "Export Project",
+    "zh-Hant": "導出項目"
+  },
+  "导出项目文件": {
+    "en": "Export Project File",
+    "zh-Hant": "導出項目文件"
+  },
+  "封面": {
+    "en": "Cover",
+    "zh-Hant": "封面"
+  },
+  "将后置摄像头对准拍摄主体，并保持大致水平": {
+    "en": "Point the rear camera at the subject and keep it roughly level",
+    "zh-Hant": "將後置攝像頭對準拍攝主體，並保持大致水平"
+  },
+  "将按小场景顺序重新排列拍摄脚本。": {
+    "en": "The shooting script will be rearranged in scene order.",
+    "zh-Hant": "將按小場景順序重新排列拍攝腳本。"
+  },
+  "小场景": {
+    "en": "Scene",
+    "zh-Hant": "小場景"
+  },
+  "小场景名称": {
+    "en": "Scene name",
+    "zh-Hant": "小場景名稱"
+  },
+  "尚未填写主题": {
+    "en": "No theme added",
+    "zh-Hant": "尚未填寫主題"
+  },
+  "尚未添加内容": {
+    "en": "No Content Yet",
+    "zh-Hant": "尚未添加內容"
+  },
+  "尚未添加动作与拍摄提示": {
+    "en": "No posing or shooting notes yet",
+    "zh-Hant": "尚未添加動作與拍攝提示"
+  },
+  "尚未添加动作提示": {
+    "en": "No posing direction added",
+    "zh-Hant": "尚未添加動作提示"
+  },
+  "尚未添加参考图": {
+    "en": "No References Yet",
+    "zh-Hant": "尚未添加參考圖"
+  },
+  "尚未添加拍摄单元": {
+    "en": "No shot cards yet",
+    "zh-Hant": "尚未添加拍攝單元"
+  },
+  "尚未添加拍摄脚本": {
+    "en": "No Shots Yet",
+    "zh-Hant": "尚未添加拍攝腳本"
+  },
+  "尚未获得有效定位，请稍候再拍。": {
+    "en": "A valid location is not available yet. Please wait and try again.",
+    "zh-Hant": "尚未獲得有效定位，請稍候再拍。"
+  },
+  "尚未获得有效真北朝向，请移动手机完成指南针校准后重试。": {
+    "en": "A valid true-north heading is not available. Move the phone to calibrate the compass and try again.",
+    "zh-Hant": "尚未獲得有效真北朝向，請移動手機完成指南針校準後重試。"
+  },
+  "层叠穿搭": {
+    "en": "Layered outfit",
+    "zh-Hant": "層疊穿搭"
+  },
+  "屏幕常亮": {
+    "en": "Keep Screen On",
+    "zh-Hant": "屏幕常亮"
+  },
+  "左侧光": {
+    "en": "Light from Left",
+    "zh-Hant": "左側光"
+  },
+  "已存为项目模板": {
+    "en": "Saved as a project template",
+    "zh-Hant": "已存爲項目模板"
+  },
+  "已完成": {
+    "en": "Completed",
+    "zh-Hant": "已完成"
+  },
+  "已导入 %lld 个项目和 %lld 项资源": {
+    "en": "Imported %1$lld projects and %2$lld library items",
+    "zh-Hant": "已導入 %lld 個項目和 %lld 項資源"
+  },
+  "已导入 %lld 项资源": {
+    "en": "Imported %lld library items",
+    "zh-Hant": "已導入 %lld 項資源"
+  },
+  "已导入项目": {
+    "en": "Project imported",
+    "zh-Hant": "已導入項目"
+  },
+  "已恢复拍序 Pro": {
+    "en": "Shotegy Pro restored",
+    "zh-Hant": "已恢復拍序 Pro"
+  },
+  "已拍": {
+    "en": "Shot",
+    "zh-Hant": "已拍"
+  },
+  "已拍 %d · 未拍 %d · 跳过 %d": {
+    "en": "Shot %d · Pending %d · Skipped %d",
+    "zh-Hant": "已拍 %d · 未拍 %d · 跳過 %d"
+  },
+  "已拥有": {
+    "en": "Owned",
+    "zh-Hant": "已擁有"
+  },
+  "已跳过": {
+    "en": "Skipped",
+    "zh-Hant": "已跳過"
+  },
+  "已选择 %lld 项": {
+    "en": "%lld selected",
+    "zh-Hant": "已選擇 %lld 項"
+  },
+  "希望天气": {
+    "en": "Desired weather",
+    "zh-Hant": "希望天氣"
+  },
+  "希望获得的光线": {
+    "en": "Desired Lighting",
+    "zh-Hant": "希望獲得的光線"
+  },
+  "建立第一份拍摄项目": {
+    "en": "Create Your First Shoot",
+    "zh-Hant": "建立第一份拍攝項目"
+  },
+  "建议时间": {
+    "en": "Suggested Time",
+    "zh-Hant": "建議時間"
+  },
+  "开始": {
+    "en": "Start",
+    "zh-Hant": "開始"
+  },
+  "开始拍摄": {
+    "en": "Start Shooting",
+    "zh-Hant": "開始拍攝"
+  },
+  "开始时间": {
+    "en": "Start Time",
+    "zh-Hant": "開始時間"
+  },
+  "开源软件": {
+    "en": "Open Source Software",
+    "zh-Hant": "開源軟體"
+  },
+  "引导": {
+    "en": "Prompts",
+    "zh-Hant": "引導"
+  },
+  "引导词库": {
+    "en": "Posing Library",
+    "zh-Hant": "引導詞庫"
+  },
+  "归档": {
+    "en": "Archived",
+    "zh-Hant": "歸檔"
+  },
+  "归档项目": {
+    "en": "Archive Project",
+    "zh-Hant": "歸檔項目"
+  },
+  "当前 Apple 账户没有可恢复的拍序 Pro 购买。": {
+    "en": "There is no Shotegy Pro purchase to restore for the current Apple Account.",
+    "zh-Hant": "當前 Apple 賬戶沒有可恢復的拍序 Pro 購買。"
+  },
+  "当前位置精度不足，请移到开阔处后重试。": {
+    "en": "Location accuracy is too low. Move to an open area and try again.",
+    "zh-Hant": "當前位置精度不足，請移到開闊處後重試。"
+  },
+  "当前朝向误差约为 %.0f°，请远离磁性物体并校准指南针后重试。": {
+    "en": "Heading uncertainty is about %.0f°. Move away from magnetic objects, calibrate the compass, and try again.",
+    "zh-Hant": "當前朝向誤差約爲 %.0f°，請遠離磁性物體並校準指南針後重試。"
+  },
+  "当前设备或 Apple 账户不允许进行 App 内购买。": {
+    "en": "In-App Purchases aren't allowed on this device or Apple Account.",
+    "zh-Hant": "當前設備或 Apple 賬戶不允許進行 App 內購買。"
+  },
+  "当前设备无法使用相机，可从相册选择照片取色。": {
+    "en": "The camera is unavailable on this device. Choose a photo from your library instead.",
+    "zh-Hant": "當前設備無法使用相機，可從相冊選擇照片取色。"
+  },
+  "当前设备无法打开邮件应用。你可以复制邮箱地址 %@，稍后手动联系我们。": {
+    "en": "No mail app could be opened. You can copy %@ and contact us later.",
+    "zh-Hant": "當前設備無法打開郵件應用。你可以複製郵箱地址 %@，稍後手動聯繫我們。"
+  },
+  "当前设备没有可用的后置相机。": {
+    "en": "No rear camera is available on this device.",
+    "zh-Hant": "當前設備沒有可用的後置相機。"
+  },
+  "当前设备没有可用相机，你仍可从相册选择图片。": {
+    "en": "No camera is available on this device. You can still choose an image from Photos.",
+    "zh-Hant": "當前設備沒有可用相機，你仍可從相冊選擇圖片。"
+  },
+  "当天没有匹配时间": {
+    "en": "No matching time on this date",
+    "zh-Hant": "當天沒有匹配時間"
+  },
+  "当天没有拍摄安排": {
+    "en": "No shoots scheduled for this date",
+    "zh-Hant": "當天沒有拍攝安排"
+  },
+  "当日日程": {
+    "en": "Day agenda",
+    "zh-Hant": "當日日程"
+  },
+  "待填写": {
+    "en": "Not set",
+    "zh-Hant": "待填寫"
+  },
+  "待拍摄": {
+    "en": "Upcoming",
+    "zh-Hant": "待拍攝"
+  },
+  "恢复为未完成": {
+    "en": "Mark as Incomplete",
+    "zh-Hant": "恢復爲未完成"
+  },
+  "恢复成功": {
+    "en": "Restore Successful",
+    "zh-Hant": "恢復成功"
+  },
+  "恢复的策划": {
+    "en": "Restored Plan",
+    "zh-Hant": "恢復的策劃"
+  },
+  "恢复购买": {
+    "en": "Restore Purchases",
+    "zh-Hant": "恢復購買"
+  },
+  "恢复跟随项目名称": {
+    "en": "Use the project name",
+    "zh-Hant": "恢復跟隨項目名稱"
+  },
+  "意见反馈": {
+    "en": "Feedback",
+    "zh-Hant": "意見反饋"
+  },
+  "我的": {
+    "en": "Me",
+    "zh-Hant": "我的"
+  },
+  "所有脚本都已处理": {
+    "en": "All shots have been handled",
+    "zh-Hant": "所有腳本都已處理"
+  },
+  "所选内容会保留在当前收藏夹，并同时保存到目标收藏夹。": {
+    "en": "Selected items will remain in this collection and also be saved to the destination collection.",
+    "zh-Hant": "所選內容會保留在當前收藏夾，並同時保存到目標收藏夾。"
+  },
+  "所选项目中的拍摄脚本、短句和本地媒体记录将一并删除，此操作无法撤销。": {
+    "en": "Shot lists, phrases, and local media in the selected projects will also be deleted. This cannot be undone.",
+    "zh-Hant": "所選項目中的拍攝腳本、短句和本地媒體記錄將一併刪除，此操作無法撤銷。"
+  },
+  "打开拍摄脚本": {
+    "en": "Open shot plan",
+    "zh-Hant": "打開拍攝腳本"
+  },
+  "批量整理内容": {
+    "en": "Organize Multiple Items",
+    "zh-Hant": "批量整理內容"
+  },
+  "批量编辑": {
+    "en": "Batch Edit",
+    "zh-Hant": "批量編輯"
+  },
+  "技术支持": {
+    "en": "Support",
+    "zh-Hant": "技術支持"
+  },
+  "拍序 %@ 意见反馈\n\n%@": {
+    "en": "Shotegy %@ Feedback\n\n%@",
+    "zh-Hant": "拍序 %@ 意見反饋\n\n%@"
+  },
+  "拍序 Pro": {
+    "en": "Shotegy Pro",
+    "zh-Hant": "拍序 Pro"
+  },
+  "拍序 Pro 已启用": {
+    "en": "Shotegy Pro Active",
+    "zh-Hant": "拍序 Pro 已啓用"
+  },
+  "拍序 Pro 已启用。": {
+    "en": "Shotegy Pro is now active.",
+    "zh-Hant": "拍序 Pro 已啓用。"
+  },
+  "拍序 Pro 已恢复并启用。": {
+    "en": "Shotegy Pro has been restored and activated.",
+    "zh-Hant": "拍序 Pro 已恢復並啓用。"
+  },
+  "拍序 Pro 永久版": {
+    "en": "Shotegy Pro Lifetime",
+    "zh-Hant": "拍序 Pro 永久版"
+  },
+  "拍序 Shotegy": {
+    "en": "Shotegy",
+    "zh-Hant": "拍序 Shotegy"
+  },
+  "拍序完整备份_%@.shotegy-backup": {
+    "en": "Shotegy_Full_Backup_%@.shotegy-backup",
+    "zh-Hant": "拍序完整備份_%@.shotegy-backup"
+  },
+  "拍序资源库_%@.shotegy-library": {
+    "en": "Shotegy_Library_%@.shotegy-library",
+    "zh-Hant": "拍序資源庫_%@.shotegy-library"
+  },
+  "拍摄中": {
+    "en": "In Progress",
+    "zh-Hant": "拍攝中"
+  },
+  "拍摄准备": {
+    "en": "Preparation",
+    "zh-Hant": "拍攝準備"
+  },
+  "拍摄前将手机顶部朝向预计拍摄主体": {
+    "en": "Point the top of your phone toward the intended subject before taking the photo",
+    "zh-Hant": "拍攝前將手機頂部朝向預計拍攝主體"
+  },
+  "拍摄单元": {
+    "en": "Shot card",
+    "zh-Hant": "拍攝單元"
+  },
+  "拍摄器材": {
+    "en": "Equipment",
+    "zh-Hant": "拍攝器材"
+  },
+  "拍摄地点": {
+    "en": "Shoot Location",
+    "zh-Hant": "拍攝地點"
+  },
+  "拍摄基本信息": {
+    "en": "Shoot Details",
+    "zh-Hant": "拍攝基本信息"
+  },
+  "拍摄安排": {
+    "en": "Shoot schedule",
+    "zh-Hant": "拍攝安排"
+  },
+  "拍摄方式": {
+    "en": "Shooting mode",
+    "zh-Hant": "拍攝方式"
+  },
+  "拍摄方法": {
+    "en": "Techniques",
+    "zh-Hant": "拍攝方法"
+  },
+  "拍摄日期": {
+    "en": "Shoot Date",
+    "zh-Hant": "拍攝日期"
+  },
+  "拍摄时间": {
+    "en": "Shoot time",
+    "zh-Hant": "拍攝時間"
+  },
+  "拍摄状态": {
+    "en": "Shot status",
+    "zh-Hant": "拍攝狀態"
+  },
+  "拍摄脚本": {
+    "en": "Shot List",
+    "zh-Hant": "拍攝腳本"
+  },
+  "拍摄脚本 · %lld": {
+    "en": "Shot List · %lld",
+    "zh-Hant": "拍攝腳本 · %lld"
+  },
+  "拍摄脚本 %@": {
+    "en": "Shot %@",
+    "zh-Hant": "拍攝腳本 %@"
+  },
+  "拍摄脚本模板": {
+    "en": "Shot Templates",
+    "zh-Hant": "拍攝腳本模板"
+  },
+  "拍摄脚本筛选": {
+    "en": "Filter Shots",
+    "zh-Hant": "拍攝腳本篩選"
+  },
+  "拍摄设置": {
+    "en": "Shoot Settings",
+    "zh-Hant": "拍攝設置"
+  },
+  "拍摄踩点图": {
+    "en": "Take Scout Photo",
+    "zh-Hant": "拍攝踩點圖"
+  },
+  "拍摄顺序": {
+    "en": "Shooting order",
+    "zh-Hant": "拍攝順序"
+  },
+  "拍照取色": {
+    "en": "Take photo for color",
+    "zh-Hant": "拍照取色"
+  },
+  "拿花向前走，听到提示后回头看镜头": {
+    "en": "Walk forward holding the flowers, then look back at the camera when prompted",
+    "zh-Hant": "拿花向前走，聽到提示後回頭看鏡頭"
+  },
+  "按主题、风格或拍摄类型整理资源": {
+    "en": "Organize items by theme, style, or shoot type",
+    "zh-Hant": "按主題、風格或拍攝類型整理資源"
+  },
+  "按主题、风格或拍摄类型整理资源。": {
+    "en": "Organize items by theme, style, or shoot type.",
+    "zh-Hant": "按主題、風格或拍攝類型整理資源。"
+  },
+  "按住卡片右侧的排序图标并拖到目标位置": {
+    "en": "Drag the reorder handle on the right to move a card",
+    "zh-Hant": "按住卡片右側的排序圖標並拖到目標位置"
+  },
+  "按卡片": {
+    "en": "By card",
+    "zh-Hant": "按卡片"
+  },
+  "按场景重排脚本": {
+    "en": "Reorder script by scene",
+    "zh-Hant": "按場景重排腳本"
+  },
+  "按小场景": {
+    "en": "By scene",
+    "zh-Hant": "按小場景"
+  },
+  "按当前小场景顺序整理拍摄顺序": {
+    "en": "Apply scene order to shots",
+    "zh-Hant": "按當前小場景順序整理拍攝順序"
+  },
+  "按景别": {
+    "en": "By scale",
+    "zh-Hant": "按景別"
+  },
+  "推荐一款本地优先的人像摄影策划工具：拍序 Shotegy。": {
+    "en": "Try Shotegy, a local-first portrait shoot planner.",
+    "zh-Hant": "推薦一款本地優先的人像攝影策劃工具：拍序 Shotegy。"
+  },
+  "推荐时间窗": {
+    "en": "Recommended Time Window",
+    "zh-Hant": "推薦時間窗"
+  },
+  "搜索资源库": {
+    "en": "Search Library",
+    "zh-Hant": "搜索資源庫"
+  },
+  "撤销脚本重排": {
+    "en": "Undo script reorder",
+    "zh-Hant": "撤銷腳本重排"
+  },
+  "撤销顺序调整": {
+    "en": "Undo reordering",
+    "zh-Hant": "撤銷順序調整"
+  },
+  "操作失败": {
+    "en": "Action Failed",
+    "zh-Hant": "操作失敗"
+  },
+  "操作完成": {
+    "en": "Done",
+    "zh-Hant": "操作完成"
+  },
+  "收藏夹": {
+    "en": "Collections",
+    "zh-Hant": "收藏夾"
+  },
+  "收藏夹为空": {
+    "en": "Collection Is Empty",
+    "zh-Hant": "收藏夾爲空"
+  },
+  "收藏夹名称": {
+    "en": "Collection Name",
+    "zh-Hant": "收藏夾名稱"
+  },
+  "改良旗袍": {
+    "en": "Modernized qipao",
+    "zh-Hant": "改良旗袍"
+  },
+  "数据与外观": {
+    "en": "Data & Appearance",
+    "zh-Hant": "數據與外觀"
+  },
+  "数据备份": {
+    "en": "Data Backup",
+    "zh-Hant": "數據備份"
+  },
+  "斜襟 / 对襟上衣": {
+    "en": "Diagonal / front-opening top",
+    "zh-Hant": "斜襟 / 對襟上衣"
+  },
+  "新中式": {
+    "en": "Modern Chinese",
+    "zh-Hant": "新中式"
+  },
+  "新中式长裙": {
+    "en": "Modern Chinese maxi dress",
+    "zh-Hant": "新中式長裙"
+  },
+  "新增%@": {
+    "en": "New %@",
+    "zh-Hant": "新增%@"
+  },
+  "新增拍摄脚本": {
+    "en": "Add Shot",
+    "zh-Hant": "新增拍攝腳本"
+  },
+  "新增短句": {
+    "en": "Add Phrase",
+    "zh-Hant": "新增短句"
+  },
+  "新建拍摄单元": {
+    "en": "New shot card",
+    "zh-Hant": "新建拍攝單元"
+  },
+  "新建收藏夹": {
+    "en": "New Collection",
+    "zh-Hant": "新建收藏夾"
+  },
+  "新建空白项目": {
+    "en": "New Blank Project",
+    "zh-Hant": "新建空白項目"
+  },
+  "新建项目": {
+    "en": "New Project",
+    "zh-Hant": "新建項目"
+  },
+  "新建项目后填写": {
+    "en": "Add after creating the project",
+    "zh-Hant": "新建項目後填寫"
+  },
+  "新建项目模板": {
+    "en": "New Project Template",
+    "zh-Hant": "新建項目模板"
+  },
+  "方向容差": {
+    "en": "Direction Tolerance",
+    "zh-Hant": "方向容差"
+  },
+  "方法": {
+    "en": "Techniques",
+    "zh-Hant": "方法"
+  },
+  "方法库": {
+    "en": "Technique Library",
+    "zh-Hant": "方法庫"
+  },
+  "旗袍": {
+    "en": "Qipao",
+    "zh-Hant": "旗袍"
+  },
+  "无法从模板新建": {
+    "en": "Unable to Create from Template",
+    "zh-Hant": "無法從模板新建"
+  },
+  "无法保存": {
+    "en": "Unable to Save",
+    "zh-Hant": "無法保存"
+  },
+  "无法保存拍摄照片，请重试。": {
+    "en": "The captured photo could not be saved. Please try again.",
+    "zh-Hant": "無法保存拍攝照片，請重試。"
+  },
+  "无法保存更改，请重试。": {
+    "en": "Unable to save changes. Please try again.",
+    "zh-Hant": "無法保存更改，請重試。"
+  },
+  "无法保存项目，请重试。": {
+    "en": "Unable to save the project. Please try again.",
+    "zh-Hant": "無法保存項目，請重試。"
+  },
+  "无法发送邮件": {
+    "en": "Unable to Send Email",
+    "zh-Hant": "無法發送郵件"
+  },
+  "无法取色": {
+    "en": "Unable to extract color",
+    "zh-Hant": "無法取色"
+  },
+  "无法完成操作": {
+    "en": "Unable to Complete",
+    "zh-Hant": "無法完成操作"
+  },
+  "无法完成购买": {
+    "en": "Unable to Complete Purchase",
+    "zh-Hant": "無法完成購買"
+  },
+  "无法导入": {
+    "en": "Unable to Import",
+    "zh-Hant": "無法導入"
+  },
+  "无法恢复购买": {
+    "en": "Unable to Restore Purchases",
+    "zh-Hant": "無法恢復購買"
+  },
+  "无法打开本地数据": {
+    "en": "Unable to Open Local Data",
+    "zh-Hant": "無法打開本地數據"
+  },
+  "无法打开邮件应用": {
+    "en": "Unable to Open Mail App",
+    "zh-Hant": "無法打開郵件應用"
+  },
+  "无法确定摄像头朝向，请将后置摄像头大致水平对准拍摄主体后重试。": {
+    "en": "Camera direction cannot be determined. Point the rear camera roughly level at the subject and try again.",
+    "zh-Hant": "無法確定攝像頭朝向，請將後置攝像頭大致水平對準拍攝主體後重試。"
+  },
+  "无法读取照片，请选择另一张图片。": {
+    "en": "Unable to read the photo. Please choose another image.",
+    "zh-Hant": "無法讀取照片，請選擇另一張圖片。"
+  },
+  "无法读取项目模板": {
+    "en": "Unable to read this template",
+    "zh-Hant": "無法讀取項目模板"
+  },
+  "无法配置相机，请稍后重试。": {
+    "en": "The camera could not be configured. Please try again later.",
+    "zh-Hant": "無法配置相機，請稍後重試。"
+  },
+  "无法验证购买": {
+    "en": "Unable to Verify Purchase",
+    "zh-Hant": "無法驗證購買"
+  },
+  "无限": {
+    "en": "Unlimited",
+    "zh-Hant": "無限"
+  },
+  "日历显示": {
+    "en": "Calendar display",
+    "zh-Hant": "日曆顯示"
+  },
+  "日历显示：短标签与颜色": {
+    "en": "Calendar display: label and color",
+    "zh-Hant": "日曆顯示：短標籤與顏色"
+  },
+  "日历标签": {
+    "en": "Calendar label",
+    "zh-Hant": "日曆標籤"
+  },
+  "日历短标签": {
+    "en": "Calendar label",
+    "zh-Hant": "日曆短標籤"
+  },
+  "日历预览": {
+    "en": "Calendar preview",
+    "zh-Hant": "日曆預覽"
+  },
+  "日程": {
+    "en": "Calendar",
+    "zh-Hant": "日程"
+  },
+  "日程操作": {
+    "en": "Schedule actions",
+    "zh-Hant": "日程操作"
+  },
+  "日系 / 日常": {
+    "en": "Japanese / Everyday",
+    "zh-Hant": "日系 / 日常"
+  },
+  "时间": {
+    "en": "Time",
+    "zh-Hant": "時間"
+  },
+  "时间与环境": {
+    "en": "Time and environment",
+    "zh-Hant": "時間與環境"
+  },
+  "时间备注": {
+    "en": "Time Notes",
+    "zh-Hant": "時間備註"
+  },
+  "时间待定": {
+    "en": "Time to be confirmed",
+    "zh-Hant": "時間待定"
+  },
+  "明度 L": {
+    "en": "Lightness L",
+    "zh-Hant": "明度 L"
+  },
+  "显示全部脚本": {
+    "en": "Show All Shot Cards",
+    "zh-Hant": "顯示全部腳本"
+  },
+  "显示客户名称": {
+    "en": "Show Client Name",
+    "zh-Hant": "顯示客戶名稱"
+  },
+  "显示拍序标识": {
+    "en": "Shows Shotegy Branding",
+    "zh-Hant": "顯示拍序標識"
+  },
+  "显示拍序水印": {
+    "en": "Show Shotegy Watermark",
+    "zh-Hant": "顯示拍序水印"
+  },
+  "显示拍摄地点": {
+    "en": "Show Shoot Location",
+    "zh-Hant": "顯示拍攝地點"
+  },
+  "显示拍摄方法": {
+    "en": "Show Techniques",
+    "zh-Hant": "顯示拍攝方法"
+  },
+  "显示方式": {
+    "en": "Layout",
+    "zh-Hant": "顯示方式"
+  },
+  "显示踩点图": {
+    "en": "Show Scout Photos",
+    "zh-Hant": "顯示踩點圖"
+  },
+  "景别": {
+    "en": "Shot scale",
+    "zh-Hant": "景別"
+  },
+  "更多": {
+    "en": "More",
+    "zh-Hant": "更多"
+  },
+  "有年代感的颜色、纹样和款式，营造旧时光氛围。": {
+    "en": "Period colors, patterns, and silhouettes for a nostalgic mood.",
+    "zh-Hant": "有年代感的顏色、紋樣和款式，營造舊時光氛圍。"
+  },
+  "有拍摄项目": {
+    "en": "Shoot scheduled",
+    "zh-Hant": "有拍攝項目"
+  },
+  "服化道": {
+    "en": "Styling",
+    "zh-Hant": "服化道"
+  },
+  "服装": {
+    "en": "Wardrobe",
+    "zh-Hant": "服裝"
+  },
+  "服装、妆容、发型、饰品、鞋子与道具": {
+    "en": "Clothing, makeup, hair, accessories, shoes, and props",
+    "zh-Hant": "服裝、妝容、髮型、飾品、鞋子與道具"
+  },
+  "服装颜色": {
+    "en": "Clothing colors",
+    "zh-Hant": "服裝顏色"
+  },
+  "服装风格": {
+    "en": "Clothing style",
+    "zh-Hant": "服裝風格"
+  },
+  "未分类": {
+    "en": "Unclassified",
+    "zh-Hant": "未分類"
+  },
+  "未命名模板": {
+    "en": "Untitled Template",
+    "zh-Hant": "未命名模板"
+  },
+  "未命名项目": {
+    "en": "Untitled Project",
+    "zh-Hant": "未命名項目"
+  },
+  "未完成": {
+    "en": "Incomplete",
+    "zh-Hant": "未完成"
+  },
+  "未找到购买记录": {
+    "en": "No Purchase Found",
+    "zh-Hant": "未找到購買記錄"
+  },
+  "未拍": {
+    "en": "Unshot",
+    "zh-Hant": "未拍"
+  },
+  "未获得相机权限，请在系统设置中允许访问相机。": {
+    "en": "Camera access is not allowed. Enable it in Settings.",
+    "zh-Hant": "未獲得相機權限，請在系統設置中允許訪問相機。"
+  },
+  "未设置": {
+    "en": "Not Set",
+    "zh-Hant": "未設置"
+  },
+  "机位备注（可选）": {
+    "en": "Location Notes (Optional)",
+    "zh-Hant": "機位備註（可選）"
+  },
+  "机位记录": {
+    "en": "Location Records",
+    "zh-Hant": "機位記錄"
+  },
+  "机身、镜头、灯光、反光板等": {
+    "en": "Camera, lenses, lighting, reflectors, etc.",
+    "zh-Hant": "機身、鏡頭、燈光、反光板等"
+  },
+  "查看 Pro": {
+    "en": "View Pro",
+    "zh-Hant": "查看 Pro"
+  },
+  "查看已解锁权益": {
+    "en": "View Unlocked Benefits",
+    "zh-Hant": "查看已解鎖權益"
+  },
+  "标签名称": {
+    "en": "Label name",
+    "zh-Hant": "標籤名稱"
+  },
+  "标签颜色": {
+    "en": "Label color",
+    "zh-Hant": "標籤顏色"
+  },
+  "标签颜色 %@": {
+    "en": "Label color %@",
+    "zh-Hant": "標籤顏色 %@"
+  },
+  "标记完成": {
+    "en": "Mark Done",
+    "zh-Hant": "標記完成"
+  },
+  "标记项目完成": {
+    "en": "Mark Project Complete",
+    "zh-Hant": "標記項目完成"
+  },
+  "根据此模板创建项目": {
+    "en": "Create Project from Template",
+    "zh-Hant": "根據此模板創建項目"
+  },
+  "格纹裙": {
+    "en": "Plaid skirt",
+    "zh-Hant": "格紋裙"
+  },
+  "棉麻衬衫": {
+    "en": "Cotton-linen shirt",
+    "zh-Hant": "棉麻襯衫"
+  },
+  "棉麻长裙": {
+    "en": "Cotton-linen maxi dress",
+    "zh-Hant": "棉麻長裙"
+  },
+  "森系 / 小清新": {
+    "en": "Natural / Woodland",
+    "zh-Hant": "森系 / 小清新"
+  },
+  "概要统计": {
+    "en": "Overview statistics",
+    "zh-Hant": "概要統計"
+  },
+  "模板": {
+    "en": "Templates",
+    "zh-Hant": "模板"
+  },
+  "模板中的参考图、动作引导和拍摄方法会复制到新项目。": {
+    "en": "References, posing directions, and techniques will be copied to the new project.",
+    "zh-Hant": "模板中的參考圖、動作引導和拍攝方法會複製到新項目。"
+  },
+  "模板内容来自项目。这里可以修改名称；要更新脚本内容，请从项目重新保存一份模板。": {
+    "en": "Template content comes from a project. You can rename it here; to update its shots, save a new template from the project.",
+    "zh-Hant": "模板內容來自項目。這裏可以修改名稱；要更新腳本內容，請從項目重新保存一份模板。"
+  },
+  "模板名称": {
+    "en": "Template Name",
+    "zh-Hant": "模板名稱"
+  },
+  "模板已复制": {
+    "en": "Template duplicated",
+    "zh-Hant": "模板已複製"
+  },
+  "模板无法保存": {
+    "en": "Unable to Save Template",
+    "zh-Hant": "模板無法保存"
+  },
+  "模板脚本": {
+    "en": "Template Shots",
+    "zh-Hant": "模板腳本"
+  },
+  "模板资料": {
+    "en": "Template Details",
+    "zh-Hant": "模板資料"
+  },
+  "模特风格": {
+    "en": "Model direction",
+    "zh-Hant": "模特風格"
+  },
+  "正在导入…": {
+    "en": "Importing…",
+    "zh-Hant": "正在導入…"
+  },
+  "正在生成%@…": {
+    "en": "Generating %@…",
+    "zh-Hant": "正在生成%@…"
+  },
+  "此收藏夹暂无内容": {
+    "en": "Nothing in This Collection",
+    "zh-Hant": "此收藏夾暫無內容"
+  },
+  "此项目已归档": {
+    "en": "This Project Is Archived",
+    "zh-Hant": "此項目已歸檔"
+  },
+  "每个拍摄脚本生成一张图片": {
+    "en": "Create one image for each shot",
+    "zh-Hant": "每個拍攝腳本生成一張圖片"
+  },
+  "每项目 1 个": {
+    "en": "1 per Project",
+    "zh-Hant": "每項目 1 個"
+  },
+  "水手服": {
+    "en": "Sailor uniform",
+    "zh-Hant": "水手服"
+  },
+  "永久删除“%@”？": {
+    "en": "Permanently Delete “%@”?",
+    "zh-Hant": "永久刪除“%@”？"
+  },
+  "永久删除项目？": {
+    "en": "Permanently Delete Project?",
+    "zh-Hant": "永久刪除項目？"
+  },
+  "没有其他可用收藏夹": {
+    "en": "No Other Collections Available",
+    "zh-Hant": "沒有其他可用收藏夾"
+  },
+  "没有匹配结果": {
+    "en": "No Results",
+    "zh-Hant": "沒有匹配結果"
+  },
+  "没有找到可恢复的购买": {
+    "en": "No restorable purchase was found",
+    "zh-Hant": "沒有找到可恢復的購買"
+  },
+  "没有符合筛选的脚本": {
+    "en": "No Shots Match This Filter",
+    "zh-Hant": "沒有符合篩選的腳本"
+  },
+  "河畔黄昏人像": {
+    "en": "Riverside Sunset Portraits",
+    "zh-Hant": "河畔黃昏人像"
+  },
+  "活跃项目": {
+    "en": "Active Projects",
+    "zh-Hant": "活躍項目"
+  },
+  "浅色": {
+    "en": "Light",
+    "zh-Hant": "淺色"
+  },
+  "浅色连衣裙": {
+    "en": "Light-colored dress",
+    "zh-Hant": "淺色連衣裙"
+  },
+  "深色": {
+    "en": "Dark",
+    "zh-Hant": "深色"
+  },
+  "添加": {
+    "en": "Add",
+    "zh-Hant": "添加"
+  },
+  "添加 %lld": {
+    "en": "Add %lld",
+    "zh-Hant": "添加 %lld"
+  },
+  "添加%@短句": {
+    "en": "Add %@ Phrase",
+    "zh-Hant": "添加%@短句"
+  },
+  "添加参考图": {
+    "en": "Add reference",
+    "zh-Hant": "添加參考圖"
+  },
+  "添加拍摄脚本": {
+    "en": "Add Shot",
+    "zh-Hant": "添加拍攝腳本"
+  },
+  "添加服装、妆容、发型与道具": {
+    "en": "Add clothing, makeup, hairstyle, and props",
+    "zh-Hant": "添加服裝、妝容、髮型與道具"
+  },
+  "添加第一项拍摄脚本": {
+    "en": "Add Your First Shot",
+    "zh-Hant": "添加第一項拍攝腳本"
+  },
+  "添加颜色": {
+    "en": "Add color",
+    "zh-Hant": "添加顏色"
+  },
+  "添加颜色 %@": {
+    "en": "Add color %@",
+    "zh-Hant": "添加顏色 %@"
+  },
+  "清除": {
+    "en": "Clear",
+    "zh-Hant": "清除"
+  },
+  "滨江公园": {
+    "en": "Riverside Park",
+    "zh-Hant": "濱江公園"
+  },
+  "版本": {
+    "en": "Version",
+    "zh-Hant": "版本"
+  },
+  "特殊花纹毛衣": {
+    "en": "Patterned sweater",
+    "zh-Hant": "特殊花紋毛衣"
+  },
+  "现代剪裁中式套装": {
+    "en": "Modern-tailored Chinese outfit",
+    "zh-Hant": "現代剪裁中式套裝"
+  },
+  "用于策划长图和 PDF，以小图展示所有参考图，不显示拍摄方法和踩点图。": {
+    "en": "Applies to planning long images and PDFs. Shows all references as small photos, without techniques or scouting photos.",
+    "zh-Hant": "用於策劃長圖和 PDF，以小圖展示所有參考圖，不顯示拍攝方法和踩點圖。"
+  },
+  "用于策划长图和 PDF，按拍摄顺序展示完整卡片。": {
+    "en": "Applies to planning long images and PDFs. Shows full cards in shooting order.",
+    "zh-Hant": "用於策劃長圖和 PDF，按拍攝順序展示完整卡片。"
+  },
+  "用户协议": {
+    "en": "Terms of Use",
+    "zh-Hant": "用戶協議"
+  },
+  "由拍序生成": {
+    "en": "Created with Shotegy",
+    "zh-Hant": "由拍序生成"
+  },
+  "白、米白、灰、黑、卡其与棕。": {
+    "en": "White, ivory, gray, black, khaki, and brown.",
+    "zh-Hant": "白、米白、灰、黑、卡其與棕。"
+  },
+  "盘扣上衣": {
+    "en": "Frog-button top",
+    "zh-Hant": "盤扣上衣"
+  },
+  "相邻色": {
+    "en": "Analogous colors",
+    "zh-Hant": "相鄰色"
+  },
+  "短句": {
+    "en": "Phrases",
+    "zh-Hant": "短句"
+  },
+  "短句、参考图和踩点记录将一并删除，此操作无法撤销。": {
+    "en": "Phrases, references, and scouting records will also be deleted. This cannot be undone.",
+    "zh-Hant": "短句、參考圖和踩點記錄將一併刪除，此操作無法撤銷。"
+  },
+  "短袖或卫衣 + 半裙": {
+    "en": "T-shirt or sweatshirt + skirt",
+    "zh-Hant": "短袖或衛衣 + 半裙"
+  },
+  "碎花裙": {
+    "en": "Floral dress",
+    "zh-Hant": "碎花裙"
+  },
+  "示例客户": {
+    "en": "Sample Client",
+    "zh-Hant": "示例客戶"
+  },
+  "突出东方气质与人物线条，可呈现清冷、复古或成熟方向。": {
+    "en": "Emphasize the silhouette and traditional elegance with a cool, vintage, or mature mood.",
+    "zh-Hant": "突出東方氣質與人物線條，可呈現清冷、復古或成熟方向。"
+  },
+  "突出人物，保持适度对比。": {
+    "en": "Make the subject stand out with moderate contrast.",
+    "zh-Hant": "突出人物，保持適度對比。"
+  },
+  "立即解锁专业版": {
+    "en": "Unlock Pro",
+    "zh-Hant": "立即解鎖專業版"
+  },
+  "立领上衣": {
+    "en": "Mandarin-collar top",
+    "zh-Hant": "立領上衣"
+  },
+  "第三方许可": {
+    "en": "Third-Party Licenses",
+    "zh-Hant": "第三方許可"
+  },
+  "管理小场景": {
+    "en": "Manage scenes",
+    "zh-Hant": "管理小場景"
+  },
+  "管理所属收藏夹": {
+    "en": "Manage Collections",
+    "zh-Hant": "管理所屬收藏夾"
+  },
+  "系统版本：iOS %@": {
+    "en": "System Version: iOS %@",
+    "zh-Hant": "系統版本：iOS %@"
+  },
+  "紧凑卡片": {
+    "en": "Compact Cards",
+    "zh-Hant": "緊湊卡片"
+  },
+  "纯色连衣裙": {
+    "en": "Solid-color dress",
+    "zh-Hant": "純色連衣裙"
+  },
+  "结束": {
+    "en": "End",
+    "zh-Hant": "結束"
+  },
+  "结束时间": {
+    "en": "End Time",
+    "zh-Hant": "結束時間"
+  },
+  "结束时间需要晚于开始时间。": {
+    "en": "The end time must be later than the start time.",
+    "zh-Hant": "結束時間需要晚於開始時間。"
+  },
+  "编辑": {
+    "en": "Edit",
+    "zh-Hant": "編輯"
+  },
+  "编辑%@": {
+    "en": "Edit %@",
+    "zh-Hant": "編輯%@"
+  },
+  "编辑内容": {
+    "en": "Edit Content",
+    "zh-Hant": "編輯內容"
+  },
+  "编辑拍摄脚本": {
+    "en": "Edit Shot",
+    "zh-Hant": "編輯拍攝腳本"
+  },
+  "编辑日历标签": {
+    "en": "Edit calendar label",
+    "zh-Hant": "編輯日曆標籤"
+  },
+  "编辑模板信息": {
+    "en": "Edit Template Info",
+    "zh-Hant": "編輯模板信息"
+  },
+  "编辑短句": {
+    "en": "Edit Phrase",
+    "zh-Hant": "編輯短句"
+  },
+  "编辑资源时可把它加入此收藏夹。": {
+    "en": "Add an item to this collection while editing it.",
+    "zh-Hant": "編輯資源時可把它加入此收藏夾。"
+  },
+  "编辑踩点机位": {
+    "en": "Edit Scout Location",
+    "zh-Hant": "編輯踩點機位"
+  },
+  "编辑项目信息": {
+    "en": "Edit Project Info",
+    "zh-Hant": "編輯項目信息"
+  },
+  "编辑颜色 %@": {
+    "en": "Edit color %@",
+    "zh-Hant": "編輯顏色 %@"
+  },
+  "联系方式": {
+    "en": "Contact",
+    "zh-Hant": "聯繫方式"
+  },
+  "联系方式：": {
+    "en": "Contact:",
+    "zh-Hant": "聯繫方式："
+  },
+  "联系方式（选填）": {
+    "en": "Contact (Optional)",
+    "zh-Hant": "聯繫方式（選填）"
+  },
+  "背心裙": {
+    "en": "Sleeveless dress",
+    "zh-Hant": "背心裙"
+  },
+  "脚本": {
+    "en": "Shots",
+    "zh-Hant": "腳本"
+  },
+  "脚本 %@": {
+    "en": "Shot %@",
+    "zh-Hant": "腳本 %@"
+  },
+  "脚本 %d · 参考图 %d": {
+    "en": "Shot cards %d · References %d",
+    "zh-Hant": "腳本 %d · 參考圖 %d"
+  },
+  "脚本排序": {
+    "en": "Reorder",
+    "zh-Hant": "腳本排序"
+  },
+  "脚本组织方式": {
+    "en": "Organize shots",
+    "zh-Hant": "腳本組織方式"
+  },
+  "脚本选项": {
+    "en": "Script Options",
+    "zh-Hant": "腳本選項"
+  },
+  "脚本顺序": {
+    "en": "Script order",
+    "zh-Hant": "腳本順序"
+  },
+  "自定义": {
+    "en": "Custom",
+    "zh-Hant": "自定義"
+  },
+  "自定义标签颜色": {
+    "en": "Custom label color",
+    "zh-Hant": "自定義標籤顏色"
+  },
+  "自然、松弛、暖色逆光": {
+    "en": "Natural, relaxed, warm backlight",
+    "zh-Hant": "自然、鬆弛、暖色逆光"
+  },
+  "自然、柔和的田园感，适合草地、树林和花丛。": {
+    "en": "Soft, natural countryside styling for meadows, woods, and flowers.",
+    "zh-Hant": "自然、柔和的田園感，適合草地、樹林和花叢。"
+  },
+  "自选颜色": {
+    "en": "Custom color",
+    "zh-Hant": "自選顏色"
+  },
+  "色相 H": {
+    "en": "Hue H",
+    "zh-Hant": "色相 H"
+  },
+  "色轮": {
+    "en": "Color wheel",
+    "zh-Hant": "色輪"
+  },
+  "草稿": {
+    "en": "Draft",
+    "zh-Hant": "草稿"
+  },
+  "蕾丝 / 田园元素": {
+    "en": "Lace / countryside details",
+    "zh-Hant": "蕾絲 / 田園元素"
+  },
+  "衬衫 + 半裙": {
+    "en": "Shirt + skirt",
+    "zh-Hant": "襯衫 + 半裙"
+  },
+  "西装外套": {
+    "en": "Blazer",
+    "zh-Hant": "西裝外套"
+  },
+  "计算太阳方向与建议时间": {
+    "en": "Calculate Sun Direction & Suggested Time",
+    "zh-Hant": "計算太陽方向與建議時間"
+  },
+  "计算推荐时间": {
+    "en": "Calculate Recommended Time",
+    "zh-Hant": "計算推薦時間"
+  },
+  "记录机位": {
+    "en": "Record Locations",
+    "zh-Hant": "記錄機位"
+  },
+  "记录踩点机位": {
+    "en": "Record Scout Location",
+    "zh-Hant": "記錄踩點機位"
+  },
+  "设为封面": {
+    "en": "Set as Cover",
+    "zh-Hant": "設爲封面"
+  },
+  "设置建议时间": {
+    "en": "Set Suggested Time",
+    "zh-Hant": "設置建議時間"
+  },
+  "设置拍摄日期": {
+    "en": "Set Shoot Date",
+    "zh-Hant": "設置拍攝日期"
+  },
+  "设置拍摄时间": {
+    "en": "Set Shoot Time",
+    "zh-Hant": "設置拍攝時間"
+  },
+  "语言": {
+    "en": "Language",
+    "zh-Hant": "語言"
+  },
+  "语言：%@": {
+    "en": "Language: %@",
+    "zh-Hant": "語言：%@"
+  },
+  "请使用不同且非空的小场景名称。": {
+    "en": "Enter a different, nonempty name for each scene.",
+    "zh-Hant": "請使用不同且非空的小場景名稱。"
+  },
+  "请先拍摄踩点图。": {
+    "en": "Take a scout photo first.",
+    "zh-Hant": "請先拍攝踩點圖。"
+  },
+  "请在系统设置中允许相机访问。": {
+    "en": "Please allow camera access in Settings.",
+    "zh-Hant": "請在系統設置中允許相機訪問。"
+  },
+  "请填写项目名称。": {
+    "en": "Enter a project name.",
+    "zh-Hant": "請填寫項目名稱。"
+  },
+  "请尝试其他关键词。": {
+    "en": "Try another search term.",
+    "zh-Hant": "請嘗試其他關鍵詞。"
+  },
+  "请打开一个项目，在右上角更多菜单中选择“存为项目模板”。": {
+    "en": "Open a project and choose “Save as Project Template” from the More menu in the top-right corner.",
+    "zh-Hant": "請打開一個項目，在右上角更多菜單中選擇“存爲項目模板”。"
+  },
+  "请描述出现问题的页面、操作步骤或希望增加的功能。": {
+    "en": "Describe the page, steps to reproduce the issue, or feature you would like.",
+    "zh-Hant": "請描述出現問題的頁面、操作步驟或希望增加的功能。"
+  },
+  "请直接拍摄踩点图，并允许定位与指南针访问后再使用太阳方向计算。": {
+    "en": "Take a scout photo and allow location and compass access before calculating sun direction.",
+    "zh-Hant": "請直接拍攝踩點圖，並允許定位與指南針訪問後再使用太陽方向計算。"
+  },
+  "请输入六位 Hex 颜色，例如 #F1EBDD。": {
+    "en": "Enter a six-digit Hex color, such as #F1EBDD.",
+    "zh-Hant": "請輸入六位 Hex 顏色，例如 #F1EBDD。"
+  },
+  "请选择其他收藏夹，或先在资源库中添加内容。": {
+    "en": "Choose another collection or add items to the library first.",
+    "zh-Hant": "請選擇其他收藏夾，或先在資源庫中添加內容。"
+  },
+  "调整小场景顺序不会改变拍摄顺序。删除小场景会保留其中的拍摄卡片。": {
+    "en": "Reordering scenes keeps the shooting order. Deleting a scene keeps its shot cards.",
+    "zh-Hant": "調整小場景順序不會改變拍攝順序。刪除小場景會保留其中的拍攝卡片。"
+  },
+  "调整拍摄脚本顺序": {
+    "en": "Reorder Shots",
+    "zh-Hant": "調整拍攝腳本順序"
+  },
+  "调整日期与时间": {
+    "en": "Adjust date and time",
+    "zh-Hant": "調整日期與時間"
+  },
+  "调整脚本顺序": {
+    "en": "Reorder Shots",
+    "zh-Hant": "調整腳本順序"
+  },
+  "购买成功": {
+    "en": "Purchase Successful",
+    "zh-Hant": "購買成功"
+  },
+  "购买正在等待确认": {
+    "en": "The purchase is awaiting approval",
+    "zh-Hant": "購買正在等待確認"
+  },
+  "购买等待确认": {
+    "en": "Purchase Pending",
+    "zh-Hant": "購買等待確認"
+  },
+  "购买说明": {
+    "en": "Purchase Information",
+    "zh-Hant": "購買說明"
+  },
+  "购买需要进一步确认。确认完成后，拍序会自动更新 Pro 权益。": {
+    "en": "The purchase requires approval. Shotegy will update Pro access automatically when approval is complete.",
+    "zh-Hant": "購買需要進一步確認。確認完成後，拍序會自動更新 Pro 權益。"
+  },
+  "资源会从全部资源和所有收藏夹中删除，不影响已经插入项目的内容。": {
+    "en": "The item will be removed from All Items and every collection. Content already added to projects will not be affected.",
+    "zh-Hant": "資源會從全部資源和所有收藏夾中刪除，不影響已經插入項目的內容。"
+  },
+  "资源会从整个资源库和所有收藏夹中删除，但不会影响已插入真实项目的内容。": {
+    "en": "The item will be deleted from the entire library and all collections, but content already added to projects will not be affected.",
+    "zh-Hant": "資源會從整個資源庫和所有收藏夾中刪除，但不會影響已插入真實項目的內容。"
+  },
+  "资源库": {
+    "en": "Library",
+    "zh-Hant": "資源庫"
+  },
+  "资源库操作": {
+    "en": "Library Actions",
+    "zh-Hant": "資源庫操作"
+  },
+  "资源类型": {
+    "en": "Item Type",
+    "zh-Hant": "資源類型"
+  },
+  "跟随系统": {
+    "en": "System",
+    "zh-Hant": "跟隨系統"
+  },
+  "跳过": {
+    "en": "Skip",
+    "zh-Hant": "跳過"
+  },
+  "踩点图": {
+    "en": "Scout Photos",
+    "zh-Hant": "踩點圖"
+  },
+  "踩点图 %lld": {
+    "en": "Scout Photo %lld",
+    "zh-Hant": "踩點圖 %lld"
+  },
+  "踩点机位": {
+    "en": "Scout Locations",
+    "zh-Hant": "踩點機位"
+  },
+  "轻松、干净的日常穿搭，适合松弛、清新的照片。": {
+    "en": "Relaxed, clean everyday outfits for natural, fresh portraits.",
+    "zh-Hant": "輕鬆、乾淨的日常穿搭，適合鬆弛、清新的照片。"
+  },
+  "载入商品": {
+    "en": "Load Products",
+    "zh-Hant": "載入商品"
+  },
+  "载入示例项目": {
+    "en": "Load Sample Project",
+    "zh-Hant": "載入示例項目"
+  },
+  "近景 / 特写": {
+    "en": "Close-up / Detail",
+    "zh-Hant": "近景 / 特寫"
+  },
+  "近期": {
+    "en": "Recent",
+    "zh-Hant": "近期"
+  },
+  "返回项目并添加拍摄脚本。": {
+    "en": "Return to the project and add shots.",
+    "zh-Hant": "返回項目並添加拍攝腳本。"
+  },
+  "还没有拍摄安排": {
+    "en": "No scheduled shoots yet",
+    "zh-Hant": "還沒有拍攝安排"
+  },
+  "还没有拍摄脚本": {
+    "en": "No Shots Yet",
+    "zh-Hant": "還沒有拍攝腳本"
+  },
+  "还没有项目模板": {
+    "en": "No Project Templates Yet",
+    "zh-Hant": "還沒有項目模板"
+  },
+  "这个模板的数据无法读取，请保留原文件并检查备份版本。": {
+    "en": "This template cannot be read. Keep the original file and check its backup version.",
+    "zh-Hant": "這個模板的數據無法讀取，請保留原文件並檢查備份版本。"
+  },
+  "这笔交易未通过 StoreKit 验证，因此没有解锁拍序 Pro。": {
+    "en": "This transaction failed StoreKit verification, so Shotegy Pro wasn't unlocked.",
+    "zh-Hant": "這筆交易未通過 StoreKit 驗證，因此沒有解鎖拍序 Pro。"
+  },
+  "这里还没有项目": {
+    "en": "No Projects Yet",
+    "zh-Hant": "這裏還沒有項目"
+  },
+  "进入拍摄模式": {
+    "en": "Enter Shoot Mode",
+    "zh-Hant": "進入拍攝模式"
+  },
+  "远景": {
+    "en": "Wide shot",
+    "zh-Hant": "遠景"
+  },
+  "适合打印或发给团队": {
+    "en": "Ideal for printing or sharing with your team",
+    "zh-Hant": "適合打印或發給團隊"
+  },
+  "逆光": {
+    "en": "Backlight",
+    "zh-Hant": "逆光"
+  },
+  "选择%@": {
+    "en": "Choose %@",
+    "zh-Hant": "選擇%@"
+  },
+  "选择其他状态查看拍摄脚本。": {
+    "en": "Choose another status to view shots.",
+    "zh-Hant": "選擇其他狀態查看拍攝腳本。"
+  },
+  "选择常见风格": {
+    "en": "Choose a style",
+    "zh-Hant": "選擇常見風格"
+  },
+  "选择日期": {
+    "en": "Choose Date",
+    "zh-Hant": "選擇日期"
+  },
+  "选择项目模板": {
+    "en": "Choose Project Template",
+    "zh-Hant": "選擇項目模板"
+  },
+  "选择风格": {
+    "en": "Choose style",
+    "zh-Hant": "選擇風格"
+  },
+  "逐条导出脚本图": {
+    "en": "Export Individual Shot Images",
+    "zh-Hant": "逐條導出腳本圖"
+  },
+  "通过系统分享发送": {
+    "en": "Send via Share Sheet",
+    "zh-Hant": "通過系統分享發送"
+  },
+  "造型\n参考": {
+    "en": "Styling\nreference",
+    "zh-Hant": "造型\n參考"
+  },
+  "造型与道具": {
+    "en": "Styling and props",
+    "zh-Hant": "造型與道具"
+  },
+  "道具": {
+    "en": "Props",
+    "zh-Hant": "道具"
+  },
+  "邮件发送失败。你可以复制邮箱地址 %@，稍后手动联系我们。": {
+    "en": "The email could not be sent. You can copy %@ and contact us later.",
+    "zh-Hant": "郵件發送失敗。你可以複製郵箱地址 %@，稍後手動聯繫我們。"
+  },
+  "邮件已存为草稿。": {
+    "en": "Email saved as a draft.",
+    "zh-Hant": "郵件已存爲草稿。"
+  },
+  "邮箱地址已复制": {
+    "en": "Email address copied",
+    "zh-Hant": "郵箱地址已複製"
+  },
+  "邻近色": {
+    "en": "Analogous colors",
+    "zh-Hant": "鄰近色"
+  },
+  "配色推荐": {
+    "en": "Color suggestions",
+    "zh-Hant": "配色推薦"
+  },
+  "采用此时间": {
+    "en": "Use This Time",
+    "zh-Hant": "採用此時間"
+  },
+  "重命名收藏夹": {
+    "en": "Rename Collection",
+    "zh-Hant": "重命名收藏夾"
+  },
+  "针织开衫": {
+    "en": "Cardigan",
+    "zh-Hant": "針織開衫"
+  },
+  "针织背心": {
+    "en": "Knitted vest",
+    "zh-Hant": "針織背心"
+  },
+  "针织衫 / 针织外套": {
+    "en": "Knitwear / knit jacket",
+    "zh-Hant": "針織衫 / 針織外套"
+  },
+  "锁定编辑": {
+    "en": "Lock Editing",
+    "zh-Hant": "鎖定編輯"
+  },
+  "长半裙": {
+    "en": "Long skirt",
+    "zh-Hant": "長半裙"
+  },
+  "长图排版": {
+    "en": "Long image layout",
+    "zh-Hant": "長圖排版"
+  },
+  "问题或建议": {
+    "en": "Questions or Suggestions",
+    "zh-Hant": "問題或建議"
+  },
+  "问题或建议：": {
+    "en": "Feedback:",
+    "zh-Hant": "問題或建議："
+  },
+  "隐私政策": {
+    "en": "Privacy Policy",
+    "zh-Hant": "隱私政策"
+  },
+  "需要拍序 Pro": {
+    "en": "Shotegy Pro Required",
+    "zh-Hant": "需要拍序 Pro"
+  },
+  "青春、利落的学生感，适合校园、街道与夏日题材。": {
+    "en": "Youthful, neat styling for campuses, streets, and summer shoots.",
+    "zh-Hant": "青春、利落的學生感，適合校園、街道與夏日題材。"
+  },
+  "鞋子": {
+    "en": "Shoes",
+    "zh-Hant": "鞋子"
+  },
+  "项目": {
+    "en": "Projects",
+    "zh-Hant": "項目"
+  },
+  "项目中的拍摄脚本、短句和媒体记录将一并删除，此操作无法撤销。": {
+    "en": "Shot lists, phrases, and media in this project will also be deleted. This cannot be undone.",
+    "zh-Hant": "項目中的拍攝腳本、短句和媒體記錄將一併刪除，此操作無法撤銷。"
+  },
+  "项目中的拍摄脚本、短句和本地媒体记录将一并删除。": {
+    "en": "Shot lists, phrases, and local media in this project will also be deleted.",
+    "zh-Hant": "項目中的拍攝腳本、短句和本地媒體記錄將一併刪除。"
+  },
+  "项目名称": {
+    "en": "Project Name",
+    "zh-Hant": "項目名稱"
+  },
+  "项目备注": {
+    "en": "Project Notes",
+    "zh-Hant": "項目備註"
+  },
+  "项目操作": {
+    "en": "Project Actions",
+    "zh-Hant": "項目操作"
+  },
+  "项目数据": {
+    "en": "Project Data",
+    "zh-Hant": "項目數據"
+  },
+  "项目概况": {
+    "en": "Project overview",
+    "zh-Hant": "項目概況"
+  },
+  "项目模板": {
+    "en": "Project template",
+    "zh-Hant": "項目模板"
+  },
+  "项目策划": {
+    "en": "Project planning",
+    "zh-Hant": "項目策劃"
+  },
+  "项目筛选": {
+    "en": "Project Filter",
+    "zh-Hant": "項目篩選"
+  },
+  "项目资料": {
+    "en": "Project Details",
+    "zh-Hant": "項目資料"
+  },
+  "顺光": {
+    "en": "Front Light",
+    "zh-Hant": "順光"
+  },
+  "风格": {
+    "en": "Style",
+    "zh-Hant": "風格"
+  },
+  "饰品": {
+    "en": "Accessories",
+    "zh-Hant": "飾品"
+  },
+  "饱和度 S": {
+    "en": "Saturation S",
+    "zh-Hant": "飽和度 S"
+  },
+  "高清长图，过长时自动拆分": {
+    "en": "High-resolution long image, split automatically when needed",
+    "zh-Hant": "高清長圖，過長時自動拆分"
+  },
+  "高腰半裙": {
+    "en": "High-waisted skirt",
+    "zh-Hant": "高腰半裙"
+  },
+  "鲜花": {
+    "en": "Flowers",
+    "zh-Hant": "鮮花"
+  },
+  "默认": {
+    "en": "Default",
+    "zh-Hant": "默認"
+  },
+  "默认收藏夹": {
+    "en": "Default Collection",
+    "zh-Hant": "默認收藏夾"
+  },
+  "繁体中文": {
+    "en": "Traditional Chinese",
+    "zh-Hant": "繁體中文"
+  },
+  "简体中文": {
+    "en": "Simplified Chinese",
+    "zh-Hant": "簡體中文"
+  },
+  "字体许可": {
+    "en": "Font Licenses",
+    "zh-Hant": "字體許可"
+  },
+  "Noto Serif SC": {
+    "en": "Noto Serif SC",
+    "zh-Hant": "Noto Serif SC"
+  },
+  "Android 版本的购买与跨平台权益尚未接入。": {
+    "en": "Purchases and cross-platform entitlements are not yet available on Android.",
+    "zh-Hant": "Android 版本的購買與跨平台權益尚未接入。"
+  },
+  "  根据此模板创建项目": {
+    "en": "  Create Project from Template",
+    "zh-Hant": "  根據此模板創建項目"
+  },
+  "  添加第一项拍摄脚本": {
+    "en": "  Add First Shot",
+    "zh-Hant": "  添加第一項拍攝腳本"
+  },
+  "M月d日 EEEE": {
+    "en": "MMM d, EEEE",
+    "zh-Hant": "M月d日 EEEE"
+  },
+  "{0} 个内容": {
+    "en": "{0} items",
+    "zh-Hant": "{0} 個內容"
+  },
+  "{0} 个镜头": {
+    "en": "{0} shots",
+    "zh-Hant": "{0} 個鏡頭"
+  },
+  "{0} 项拍摄安排": {
+    "en": "{0} shoots",
+    "zh-Hant": "{0} 項拍攝安排"
+  },
+  "{0}年{1}月": {
+    "en": "{1}/{0}",
+    "zh-Hant": "{0}年{1}月"
+  },
+  "“{0}”及其镜头将被删除。": {
+    "en": "“{0}” and its shots will be deleted.",
+    "zh-Hant": "“{0}”及其鏡頭將被刪除。"
+  },
+  "‹ 返回": {
+    "en": "‹ Back",
+    "zh-Hant": "‹ 返回"
+  },
+  "☀  计算太阳方向与建议时间  ›": {
+    "en": "☀  Sun Direction & Suggested Times  ›",
+    "zh-Hant": "☀  計算太陽方向與建議時間  ›"
+  },
+  "☀  计算推荐时间": {
+    "en": "☀  Calculate Suggested Times",
+    "zh-Hant": "☀  計算推薦時間"
+  },
+  "上移": {
+    "en": "Move Up",
+    "zh-Hant": "上移"
+  },
+  "下移": {
+    "en": "Move Down",
+    "zh-Hant": "下移"
+  },
+  "与“{0}” {1}–{2} 时间重叠。": {
+    "en": "Overlaps with “{0}” ({1}–{2}).",
+    "zh-Hant": "與“{0}” {1}–{2} 時間重疊。"
+  },
+  "为保护原有数据，编辑已暂停。": {
+    "en": "Editing is paused to protect your existing data.",
+    "zh-Hant": "爲保護原有數據，編輯已暫停。"
+  },
+  "了解专业版": {
+    "en": "Explore Pro",
+    "zh-Hant": "瞭解專業版"
+  },
+  "删除 {0} 个项目？": {
+    "en": "Delete {0} projects?",
+    "zh-Hant": "刪除 {0} 個項目？"
+  },
+  "删除 {0} 项资源？": {
+    "en": "Delete {0} items?",
+    "zh-Hant": "刪除 {0} 項資源？"
+  },
+  "删除场景？": {
+    "en": "Delete Scene?",
+    "zh-Hant": "刪除場景？"
+  },
+  "删除镜头？": {
+    "en": "Delete Shot?",
+    "zh-Hant": "刪除鏡頭？"
+  },
+  "删除项目？": {
+    "en": "Delete Project?",
+    "zh-Hant": "刪除項目？"
+  },
+  "取消重命名": {
+    "en": "Cancel Rename",
+    "zh-Hant": "取消重命名"
+  },
+  "只删除收藏夹及收藏关系，资源仍会保留。": {
+    "en": "Only the folder will be deleted. Its items will remain in the library.",
+    "zh-Hant": "只刪除收藏夾及收藏關係，資源仍會保留。"
+  },
+  "图片操作": {
+    "en": "Image Actions",
+    "zh-Hant": "圖片操作"
+  },
+  "坐标 %.6f, %.6f": {
+    "en": "Coordinates %.6f, %.6f",
+    "zh-Hant": "座標 %.6f, %.6f"
+  },
+  "复制诊断": {
+    "en": "Copy Diagnostics",
+    "zh-Hant": "複製診斷"
+  },
+  "太阳方位 {0}° · 高度 {1}° · 方向偏差 {2}°": {
+    "en": "Sun azimuth {0}° · Elevation {1}° · Offset {2}°",
+    "zh-Hant": "太陽方位 {0}° · 高度 {1}° · 方向偏差 {2}°"
+  },
+  "定位设置": {
+    "en": "Location Settings",
+    "zh-Hant": "定位設置"
+  },
+  "导入备份？": {
+    "en": "Import Backup?",
+    "zh-Hant": "導入備份？"
+  },
+  "将追加 {0} 个项目、{1} 项资源及 {2} 个收藏夹。重复导入可能产生副本。": {
+    "en": "Add {0} projects, {1} library items and {2} folders. Importing the same file again may create duplicates.",
+    "zh-Hant": "將追加 {0} 個項目、{1} 項資源及 {2} 個收藏夾。重複導入可能產生副本。"
+  },
+  "展开提示": {
+    "en": "Expand Tips",
+    "zh-Hant": "展開提示"
+  },
+  "已记录拍摄时的坐标与真北朝向，但设备未提供误差度数。请先校准指南针，并将推荐时间作为现场参考。": {
+    "en": "The location and true-north direction were recorded, but the device did not report angular accuracy. Calibrate the compass and verify suggested times on location.",
+    "zh-Hant": "已記錄拍攝時的座標與真北朝向，但設備未提供誤差度數。請先校準指南針，並將推薦時間作爲現場參考。"
+  },
+  "已选择 {0} 项": {
+    "en": "{0} Selected",
+    "zh-Hant": "已選擇 {0} 項"
+  },
+  "应用设置": {
+    "en": "App Settings",
+    "zh-Hant": "應用設置"
+  },
+  "开始时间 HH:mm": {
+    "en": "Start time HH:mm",
+    "zh-Hant": "開始時間 HH:mm"
+  },
+  "所选项目中的拍摄脚本和媒体记录将一并移除。": {
+    "en": "The selected projects, shots and media records will be removed.",
+    "zh-Hant": "所選項目中的拍攝腳本和媒體記錄將一併移除。"
+  },
+  "打开拍摄脚本  ↗": {
+    "en": "Open Shot List  ↗",
+    "zh-Hant": "打開拍攝腳本  ↗"
+  },
+  "批量": {
+    "en": "Select",
+    "zh-Hant": "批量"
+  },
+  "拍摄信息": {
+    "en": "Capture Information",
+    "zh-Hant": "拍攝信息"
+  },
+  "拍摄脚本 %02d": {
+    "en": "Shot %02d",
+    "zh-Hant": "拍攝腳本 %02d"
+  },
+  "拍摄踩点图，自动记录现场坐标和镜头朝向。": {
+    "en": "Take a scouting photo to record the location and camera direction.",
+    "zh-Hant": "拍攝踩點圖，自動記錄現場座標和鏡頭朝向。"
+  },
+  "拍摄顺序会按小场景的排列重新整理，可以撤销本次重排。": {
+    "en": "Shots will follow the scene order. You can undo this change.",
+    "zh-Hant": "拍攝順序會按小場景的排列重新整理，可以撤銷本次重排。"
+  },
+  "按场景重排脚本？": {
+    "en": "Reorder Shots by Scene?",
+    "zh-Hant": "按場景重排腳本？"
+  },
+  "搜索结果": {
+    "en": "Search Results",
+    "zh-Hant": "搜索結果"
+  },
+  "收藏夹操作": {
+    "en": "Folder Actions",
+    "zh-Hant": "收藏夾操作"
+  },
+  "收起提示": {
+    "en": "Collapse Tips",
+    "zh-Hant": "收起提示"
+  },
+  "新场景": {
+    "en": "New Scene",
+    "zh-Hant": "新場景"
+  },
+  "新增{0}": {
+    "en": "Add {0}",
+    "zh-Hant": "新增{0}"
+  },
+  "方向精度未知": {
+    "en": "Direction Accuracy Unknown",
+    "zh-Hant": "方向精度未知"
+  },
+  "方向误差约 ±%.0f°": {
+    "en": "Direction accuracy ±%.0f°",
+    "zh-Hant": "方向誤差約 ±%.0f°"
+  },
+  "无法读取本机数据": {
+    "en": "Unable to Read Local Data",
+    "zh-Hant": "無法讀取本機數據"
+  },
+  "日期 yyyy-MM-dd": {
+    "en": "Date yyyy-MM-dd",
+    "zh-Hant": "日期 yyyy-MM-dd"
+  },
+  "时区：{0}": {
+    "en": "Time zone: {0}",
+    "zh-Hant": "時區：{0}"
+  },
+  "时间使用踩点时区 {0}": {
+    "en": "Times use the scouting time zone: {0}",
+    "zh-Hant": "時間使用踩點時區 {0}"
+  },
+  "暂无{0}": {
+    "en": "No {0} Yet",
+    "zh-Hant": "暫無{0}"
+  },
+  "未记录可靠的现场坐标与朝向": {
+    "en": "No reliable location and direction recorded",
+    "zh-Hant": "未記錄可靠的現場座標與朝向"
+  },
+  "机位操作": {
+    "en": "Scouting Photo Actions",
+    "zh-Hant": "機位操作"
+  },
+  "模板操作": {
+    "en": "Template Actions",
+    "zh-Hant": "模板操作"
+  },
+  "模板脚本和场景可在模板详情中编辑。": {
+    "en": "Edit shots and scenes in the template details.",
+    "zh-Hant": "模板腳本和場景可在模板詳情中編輯。"
+  },
+  "正在取色…": {
+    "en": "Extracting Colors…",
+    "zh-Hant": "正在取色…"
+  },
+  "正在导出…": {
+    "en": "Exporting…",
+    "zh-Hant": "正在導出…"
+  },
+  "正在生成{0}…": {
+    "en": "Generating {0}…",
+    "zh-Hant": "正在生成{0}…"
+  },
+  "此操作将移除这张镜头卡片。": {
+    "en": "This shot card will be removed.",
+    "zh-Hant": "此操作將移除這張鏡頭卡片。"
+  },
+  "没有其他收藏夹，请先创建。": {
+    "en": "Create another folder first.",
+    "zh-Hant": "沒有其他收藏夾，請先創建。"
+  },
+  "没有可靠的拍摄坐标和朝向，请重新拍摄踩点图。": {
+    "en": "Retake the scouting photo to record a reliable location and direction.",
+    "zh-Hant": "沒有可靠的拍攝座標和朝向，請重新拍攝踩點圖。"
+  },
+  "没有找到匹配的资源": {
+    "en": "No Matching Items",
+    "zh-Hant": "沒有找到匹配的資源"
+  },
+  "添加图片失败": {
+    "en": "Unable to Add Image",
+    "zh-Hant": "添加圖片失敗"
+  },
+  "添加场景后，可在拍摄脚本中选择；移动场景会改变分组顺序。": {
+    "en": "Scenes are available in the shot editor. Reordering scenes changes the group order.",
+    "zh-Hant": "添加場景後，可在拍攝腳本中選擇；移動場景會改變分組順序。"
+  },
+  "添加服装、妆发和配色": {
+    "en": "Add clothing, makeup and colors",
+    "zh-Hant": "添加服裝、妝發和配色"
+  },
+  "添加服装颜色": {
+    "en": "Add Clothing Color",
+    "zh-Hant": "添加服裝顏色"
+  },
+  "添加镜头卡片，记录拍摄指引和技巧。": {
+    "en": "Add a shot to plan guidance and techniques.",
+    "zh-Hant": "添加鏡頭卡片，記錄拍攝指引和技巧。"
+  },
+  "清除时间": {
+    "en": "Clear Time",
+    "zh-Hant": "清除時間"
+  },
+  "状态：{0}  ▾": {
+    "en": "Status: {0}  ▾",
+    "zh-Hant": "狀態：{0}  ▾"
+  },
+  "真北朝向 %.0f° · 可计算太阳方向": {
+    "en": "True north %.0f° · Ready for sun planning",
+    "zh-Hant": "真北朝向 %.0f° · 可計算太陽方向"
+  },
+  "短句、参考图和踩点记录将一并删除。": {
+    "en": "Guidance, reference images and scouting records will also be deleted.",
+    "zh-Hant": "短句、參考圖和踩點記錄將一併刪除。"
+  },
+  "短句操作": {
+    "en": "Phrase Actions",
+    "zh-Hant": "短句操作"
+  },
+  "移除机位": {
+    "en": "Remove Scouting Photo",
+    "zh-Hant": "移除機位"
+  },
+  "结束时间 HH:mm": {
+    "en": "End time HH:mm",
+    "zh-Hant": "結束時間 HH:mm"
+  },
+  "结束时间需晚于开始时间": {
+    "en": "The end time must be later than the start time.",
+    "zh-Hant": "結束時間需晚於開始時間"
+  },
+  "继续计算": {
+    "en": "Continue",
+    "zh-Hant": "繼續計算"
+  },
+  "编辑与收藏": {
+    "en": "Edit & Organize",
+    "zh-Hant": "編輯與收藏"
+  },
+  "编辑服装颜色": {
+    "en": "Edit Clothing Color",
+    "zh-Hant": "編輯服裝顏色"
+  },
+  "编辑资源": {
+    "en": "Edit Library Item",
+    "zh-Hant": "編輯資源"
+  },
+  "脚本将移到未分组，内容会保留。": {
+    "en": "Shots will become unassigned. Their content will remain.",
+    "zh-Hant": "腳本將移到未分組，內容會保留。"
+  },
+  "脚本操作": {
+    "en": "Shot Actions",
+    "zh-Hant": "腳本操作"
+  },
+  "自选颜色 #RRGGBB": {
+    "en": "Custom color #RRGGBB",
+    "zh-Hant": "自選顏色 #RRGGBB"
+  },
+  "设备未报告方向误差度数，规划结果需现场核对": {
+    "en": "The device did not report angular accuracy. Verify the plan on location.",
+    "zh-Hant": "設備未報告方向誤差度數，規劃結果需現場覈對"
+  },
+  "设备未提供方向误差度数，推荐时间需现场核对。": {
+    "en": "The device did not report angular accuracy. Verify suggested times on location.",
+    "zh-Hant": "設備未提供方向誤差度數，推薦時間需現場覈對。"
+  },
+  "该场景的拍摄脚本将移至未分组，脚本内容会保留。": {
+    "en": "Shots in this scene will become unassigned. Their content will remain.",
+    "zh-Hant": "該場景的拍攝腳本將移至未分組，腳本內容會保留。"
+  },
+  "请输入六位颜色值": {
+    "en": "Enter a six-digit hex color.",
+    "zh-Hant": "請輸入六位顏色值"
+  },
+  "请输入有效日期和时间，结束时间需晚于开始时间。": {
+    "en": "Enter a valid date and time, with the end after the start.",
+    "zh-Hant": "請輸入有效日期和時間，結束時間需晚於開始時間。"
+  },
+  "资源会从整个资源库和所有收藏夹中删除，不会影响已插入项目的内容。": {
+    "en": "Items will be deleted from the library and all folders. Copies already added to projects will remain.",
+    "zh-Hant": "資源會從整個資源庫和所有收藏夾中刪除，不會影響已插入項目的內容。"
+  },
+  "资源将从全部资源和所有收藏夹中删除。": {
+    "en": "The item will be deleted from the library and all folders.",
+    "zh-Hant": "資源將從全部資源和所有收藏夾中刪除。"
+  },
+  "资源库中还没有词条": {
+    "en": "The Library Is Empty",
+    "zh-Hant": "資源庫中還沒有詞條"
+  },
+  "资源操作": {
+    "en": "Library Item Actions",
+    "zh-Hant": "資源操作"
+  },
+  "还没有项目模板，可在项目中选择“存为项目模板”。": {
+    "en": "No project templates yet. Save a project as a template to get started.",
+    "zh-Hant": "還沒有項目模板，可在項目中選擇“存爲項目模板”。"
+  },
+  "这张图片没有可靠的现场坐标与镜头朝向。请直接拍摄踩点图后再计算太阳方向。": {
+    "en": "This image has no reliable capture location and direction. Take a scouting photo to plan sun direction.",
+    "zh-Hant": "這張圖片沒有可靠的現場座標與鏡頭朝向。請直接拍攝踩點圖後再計算太陽方向。"
+  },
+  "追加导入": {
+    "en": "Import and Keep Existing Data",
+    "zh-Hant": "追加導入"
+  },
+  "重命名": {
+    "en": "Rename",
+    "zh-Hant": "重命名"
+  },
+  "重命名场景": {
+    "en": "Rename Scene",
+    "zh-Hant": "重命名場景"
+  },
+  "重拍": {
+    "en": "Retake",
+    "zh-Hant": "重拍"
+  },
+  "重排": {
+    "en": "Reorder",
+    "zh-Hant": "重排"
+  },
+  "重新授权": {
+    "en": "Request Permissions",
+    "zh-Hant": "重新授權"
+  },
+  "镜头朝向 %.1f°（真北）": {
+    "en": "Camera direction %.1f° (true north)",
+    "zh-Hant": "鏡頭朝向 %.1f°（真北）"
+  },
+  "＋ 新增": {
+    "en": "+ Add",
+    "zh-Hant": "＋ 新增"
+  },
+  "＋ 添加": {
+    "en": "+ Add",
+    "zh-Hant": "＋ 添加"
+  },
+  "\n\n联系方式：{0}": {
+    "en": "\n\nContact: {0}",
+    "zh-Hant": "\n\n聯繫方式：{0}"
+  },
+  "[拍序反馈] {0}": {
+    "en": "[Shotegy Feedback] {0}",
+    "zh-Hant": "[拍序反饋] {0}"
+  },
+  "{0} · 太阳方向预测": {
+    "en": "{0} · Sun direction forecast",
+    "zh-Hant": "{0} · 太陽方向預測"
+  },
+  "{0} 副本": {
+    "en": "{0} Copy",
+    "zh-Hant": "{0} 副本"
+  },
+  "{0} 永久解锁": {
+    "en": "Unlock Forever · {0}",
+    "zh-Hant": "{0} 永久解鎖"
+  },
+  "{0}_策划案.pdf": {
+    "en": "{0}_Plan.pdf",
+    "zh-Hant": "{0}_策劃案.pdf"
+  },
+  "{0}_策划长图.png": {
+    "en": "{0}_Plan.png",
+    "zh-Hant": "{0}_策劃長圖.png"
+  },
+  "{0}_脚本_%02d.jpg": {
+    "en": "{0}_Shot_%02d.jpg",
+    "zh-Hant": "{0}_腳本_%02d.jpg"
+  },
+  "{0}_逐条脚本图.zip": {
+    "en": "{0}_Shot_Images.zip",
+    "zh-Hant": "{0}_逐條腳本圖.zip"
+  },
+  "{0}_长图_%02d.jpg": {
+    "en": "{0}_Long_Image_%02d.jpg",
+    "zh-Hant": "{0}_長圖_%02d.jpg"
+  },
+  "{0}_项目准备_%02d.jpg": {
+    "en": "{0}_preparation_%02d.jpg",
+    "zh-Hant": "{0}_項目準備_%02d.jpg"
+  },
+  "{0}–{1}": {
+    "en": "{0}–{1}",
+    "zh-Hant": "{0}–{1}"
+  },
+  "{0}（导入）": {
+    "en": "{0} (Imported)",
+    "zh-Hant": "{0}（導入）"
+  },
+  "{0} 个服装颜色": {
+    "en": "{0} clothing colors",
+    "zh-Hant": "{0} 個服裝顏色"
+  },
+  "{0} 张造型参考": {
+    "en": "{0} styling references",
+    "zh-Hant": "{0} 張造型參考"
+  },
+  "{0}": {
+    "en": "{0}",
+    "zh-Hant": "{0}"
+  },
+  "{0} / {1}": {
+    "en": "{0} / {1}",
+    "zh-Hant": "{0} / {1}"
+  },
+  "{0} 张拍摄脚本": {
+    "en": "{0} shots",
+    "zh-Hant": "{0} 張拍攝腳本"
+  },
+  "{0} 项": {
+    "en": "{0} items",
+    "zh-Hant": "{0} 項"
+  },
+  "{0}. {1}": {
+    "en": "{0}. {1}",
+    "zh-Hant": "{0}. {1}"
+  },
+  "{0}/{1}": {
+    "en": "{0}/{1}",
+    "zh-Hant": "{0}/{1}"
+  },
+  "{0}{1}": {
+    "en": "{0}{1}",
+    "zh-Hant": "{0}{1}"
+  },
+  "+{0}": {
+    "en": "+{0}",
+    "zh-Hant": "+{0}"
+  },
+  "±{0}°": {
+    "en": "±{0}°",
+    "zh-Hant": "±{0}°"
+  },
+  "App 版本：{0}": {
+    "en": "App Version: {0}",
+    "zh-Hant": "App 版本：{0}"
+  },
+  "不支持的{0}备份版本": {
+    "en": "Unsupported {0} backup version",
+    "zh-Hant": "不支持的{0}備份版本"
+  },
+  "与“{0}”{1} 时间重叠。": {
+    "en": "Overlaps with “{0}” {1}.",
+    "zh-Hant": "與“{0}”{1} 時間重疊。"
+  },
+  "你的项目数据没有被删除。请确认设备有足够存储空间后重新启动 App；如果问题持续，请保留下面的错误信息以便排查。\n\n{0}": {
+    "en": "Your project data has not been deleted. Make sure your device has enough storage, then restart the app. If the issue persists, keep the error details below for troubleshooting.\n\n{0}",
+    "zh-Hant": "你的項目數據沒有被刪除。請確認設備有足夠存儲空間後重新啓動 App；如果問題持續，請保留下面的錯誤信息以便排查。\n\n{0}"
+  },
+  "共 {0} 张参考图": {
+    "en": "{0} reference images in total",
+    "zh-Hant": "共 {0} 張參考圖"
+  },
+  "删除“{0}”？": {
+    "en": "Delete “{0}”?",
+    "zh-Hant": "刪除“{0}”？"
+  },
+  "参考图 {0}": {
+    "en": "Reference {0}",
+    "zh-Hant": "參考圖 {0}"
+  },
+  "备份中缺少 {0}": {
+    "en": "Backup is missing {0}",
+    "zh-Hant": "備份中缺少 {0}"
+  },
+  "导入后活跃项目将超过免费版最多 {0} 个的限制，无法导入。请先解锁拍序 Pro 后再试。": {
+    "en": "Importing would exceed the free limit of {0} active projects. Unlock Shotegy Pro before trying again.",
+    "zh-Hant": "導入後活躍項目將超過免費版最多 {0} 個的限制，無法導入。請先解鎖拍序 Pro 後再試。"
+  },
+  "已导入 {0} 个项目和 {1} 项资源": {
+    "en": "Imported {0} projects and {1} library items",
+    "zh-Hant": "已導入 {0} 個項目和 {1} 項資源"
+  },
+  "已导入 {0} 项资源": {
+    "en": "Imported {0} library items",
+    "zh-Hant": "已導入 {0} 項資源"
+  },
+  "已拍 {0} · 未拍 {1} · 跳过 {2}": {
+    "en": "Shot {0} · Pending {1} · Skipped {2}",
+    "zh-Hant": "已拍 {0} · 未拍 {1} · 跳過 {2}"
+  },
+  "当前设备无法打开邮件应用。你可以复制邮箱地址 {0}，稍后手动联系我们。": {
+    "en": "No mail app could be opened. You can copy {0} and contact us later.",
+    "zh-Hant": "當前設備無法打開郵件應用。你可以複製郵箱地址 {0}，稍後手動聯繫我們。"
+  },
+  "拍序 {0} 意见反馈\n\n{1}": {
+    "en": "Shotegy {0} Feedback\n\n{1}",
+    "zh-Hant": "拍序 {0} 意見反饋\n\n{1}"
+  },
+  "拍序完整备份_{0}.shotegy-backup": {
+    "en": "Shotegy_Full_Backup_{0}.shotegy-backup",
+    "zh-Hant": "拍序完整備份_{0}.shotegy-backup"
+  },
+  "拍序资源库_{0}.shotegy-library": {
+    "en": "Shotegy_Library_{0}.shotegy-library",
+    "zh-Hant": "拍序資源庫_{0}.shotegy-library"
+  },
+  "拍摄脚本 · {0}": {
+    "en": "Shot List · {0}",
+    "zh-Hant": "拍攝腳本 · {0}"
+  },
+  "拍摄脚本 {0}": {
+    "en": "Shot {0}",
+    "zh-Hant": "拍攝腳本 {0}"
+  },
+  "标签颜色 {0}": {
+    "en": "Label color {0}",
+    "zh-Hant": "標籤顏色 {0}"
+  },
+  "永久删除“{0}”？": {
+    "en": "Permanently Delete “{0}”?",
+    "zh-Hant": "永久刪除“{0}”？"
+  },
+  "添加 {0}": {
+    "en": "Add {0}",
+    "zh-Hant": "添加 {0}"
+  },
+  "添加{0}短句": {
+    "en": "Add {0} Phrase",
+    "zh-Hant": "添加{0}短句"
+  },
+  "添加颜色 {0}": {
+    "en": "Add color {0}",
+    "zh-Hant": "添加顏色 {0}"
+  },
+  "系统版本：iOS {0}": {
+    "en": "System Version: iOS {0}",
+    "zh-Hant": "系統版本：iOS {0}"
+  },
+  "编辑{0}": {
+    "en": "Edit {0}",
+    "zh-Hant": "編輯{0}"
+  },
+  "编辑颜色 {0}": {
+    "en": "Edit color {0}",
+    "zh-Hant": "編輯顏色 {0}"
+  },
+  "脚本 {0}": {
+    "en": "Shot {0}",
+    "zh-Hant": "腳本 {0}"
+  },
+  "脚本 {0} · 参考图 {1}": {
+    "en": "Shot cards {0} · References {1}",
+    "zh-Hant": "腳本 {0} · 參考圖 {1}"
+  },
+  "语言：{0}": {
+    "en": "Language: {0}",
+    "zh-Hant": "語言：{0}"
+  },
+  "踩点图 {0}": {
+    "en": "Scout Photo {0}",
+    "zh-Hant": "踩點圖 {0}"
+  },
+  "选择{0}": {
+    "en": "Choose {0}",
+    "zh-Hant": "選擇{0}"
+  },
+  "邮件发送失败。你可以复制邮箱地址 {0}，稍后手动联系我们。": {
+    "en": "The email could not be sent. You can copy {0} and contact us later.",
+    "zh-Hant": "郵件發送失敗。你可以複製郵箱地址 {0}，稍後手動聯繫我們。"
+  },
+  " 副本": {
+    "en": " Copy",
+    "zh-Hant": " 副本"
+  },
+  "SHOTEGY · 由拍序生成     {0}": {
+    "en": "SHOTEGY · Created with Shotegy     {0}",
+    "zh-Hant": "SHOTEGY · 由拍序生成     {0}"
+  },
+  "yyyy年M月d日": {
+    "en": "MMM d, yyyy",
+    "zh-Hant": "yyyy年M月d日"
+  },
+  "{0} {1} · Android {2} (API {3})\n{4}\n定位来源：{5}\n传感器：{6}\n{7}": {
+    "en": "{0} {1} · Android {2} (API {3})\n{4}\nLocation providers: {5}\nSensors: {6}\n{7}",
+    "zh-Hant": "{0} {1} · Android {2} (API {3})\n{4}\n定位來源：{5}\n傳感器：{6}\n{7}"
+  },
+  "{0} 不是有效数组": {
+    "en": "{0} is not a valid array",
+    "zh-Hant": "{0} 不是有效數組"
+  },
+  "不支持的完整备份版本": {
+    "en": "Unsupported full backup version",
+    "zh-Hant": "不支持的完整備份版本"
+  },
+  "不支持的模板版本": {
+    "en": "Unsupported template version",
+    "zh-Hant": "不支持的模板版本"
+  },
+  "不支持的资源库版本": {
+    "en": "Unsupported library version",
+    "zh-Hant": "不支持的資源庫版本"
+  },
+  "不支持的项目版本": {
+    "en": "Unsupported project version",
+    "zh-Hant": "不支持的項目版本"
+  },
+  "不是受支持的 Shotegy Android 备份文件": {
+    "en": "Unsupported Shotegy Android backup file",
+    "zh-Hant": "不是受支持的 Shotegy Android 備份文件"
+  },
+  "不是受支持的拍序备份": {
+    "en": "Unsupported Shotegy backup",
+    "zh-Hant": "不是受支持的拍序備份"
+  },
+  "内容过长，请改用策划长图或 PDF": {
+    "en": "This content is too long. Export a planning image or PDF instead.",
+    "zh-Hant": "內容過長，請改用策劃長圖或 PDF"
+  },
+  "分享": {
+    "en": "Share",
+    "zh-Hant": "分享"
+  },
+  "单张图片超过 128 MB": {
+    "en": "An image exceeds 128 MB",
+    "zh-Hant": "單張圖片超過 128 MB"
+  },
+  "压缩包含重复文件": {
+    "en": "The archive contains duplicate files",
+    "zh-Hant": "壓縮包含重複文件"
+  },
+  "压缩包含非预期文件": {
+    "en": "The archive contains unexpected files",
+    "zh-Hant": "壓縮包含非預期文件"
+  },
+  "压缩包目录不受支持": {
+    "en": "Unsupported archive directory",
+    "zh-Hant": "壓縮包目錄不受支持"
+  },
+  "压缩包路径或条目数量无效": {
+    "en": "Invalid archive paths or entry count",
+    "zh-Hant": "壓縮包路徑或條目數量無效"
+  },
+  "参考图标识为空": {
+    "en": "A reference image identifier is empty",
+    "zh-Hant": "參考圖標識爲空"
+  },
+  "图片不能超过 15 MB": {
+    "en": "Images must not exceed 15 MB",
+    "zh-Hant": "圖片不能超過 15 MB"
+  },
+  "图片总量过大，暂时无法导出备份": {
+    "en": "The images are too large to export this backup",
+    "zh-Hant": "圖片總量過大，暫時無法導出備份"
+  },
+  "图片映射路径无效": {
+    "en": "Invalid image mapping path",
+    "zh-Hant": "圖片映射路徑無效"
+  },
+  "备份包含重复的标识": {
+    "en": "The backup contains duplicate identifiers",
+    "zh-Hant": "備份包含重複的標識"
+  },
+  "备份含空图片": {
+    "en": "The backup contains an empty image",
+    "zh-Hant": "備份含空圖片"
+  },
+  "备份图片无效": {
+    "en": "Invalid backup image",
+    "zh-Hant": "備份圖片無效"
+  },
+  "备份图片缺失": {
+    "en": "A backup image is missing",
+    "zh-Hant": "備份圖片缺失"
+  },
+  "备份图片缺失：{0}": {
+    "en": "Missing backup image: {0}",
+    "zh-Hant": "備份圖片缺失：{0}"
+  },
+  "备份图片过大": {
+    "en": "A backup image is too large",
+    "zh-Hant": "備份圖片過大"
+  },
+  "备份失败：参考图片文件缺失": {
+    "en": "Backup failed: a reference image file is missing",
+    "zh-Hant": "備份失敗：參考圖片文件缺失"
+  },
+  "备份媒体不是受支持的图片": {
+    "en": "Unsupported image in backup",
+    "zh-Hant": "備份媒體不是受支持的圖片"
+  },
+  "备份必须含唯一的清单": {
+    "en": "The backup must contain exactly one manifest",
+    "zh-Hant": "備份必須含唯一的清單"
+  },
+  "备份超过允许大小": {
+    "en": "The backup exceeds the size limit",
+    "zh-Hant": "備份超過允許大小"
+  },
+  "定位：{0}{1}\n朝向：{2}": {
+    "en": "Location: {0}{1}\nDirection: {2}",
+    "zh-Hant": "定位：{0}{1}\n朝向：{2}"
+  },
+  "定位：{0}": {
+    "en": "Location: {0}",
+    "zh-Hant": "定位：{0}"
+  },
+  "朝向：{0}": {
+    "en": "Direction: {0}",
+    "zh-Hant": "朝向：{0}"
+  },
+  "导入保存失败：{0}": {
+    "en": "Unable to save import: {0}",
+    "zh-Hant": "導入保存失敗：{0}"
+  },
+  "导入图片缺失": {
+    "en": "An imported image is missing",
+    "zh-Hant": "導入圖片缺失"
+  },
+  "导入失败：{0}": {
+    "en": "Import failed: {0}",
+    "zh-Hant": "導入失敗：{0}"
+  },
+  "导入项目与现有项目标识重复": {
+    "en": "An imported project identifier already exists",
+    "zh-Hant": "導入項目與現有項目標識重複"
+  },
+  "导入项目引用的图片不存在": {
+    "en": "An image referenced by the imported project is missing",
+    "zh-Hant": "導入項目引用的圖片不存在"
+  },
+  "导入项目标识重复或为空": {
+    "en": "An imported project identifier is empty or duplicated",
+    "zh-Hant": "導入項目標識重複或爲空"
+  },
+  "导出": {
+    "en": "Export",
+    "zh-Hant": "導出"
+  },
+  "尚未获得有效朝向，请移动手机完成指南针校准后重试。": {
+    "en": "No valid direction yet. Move the phone to calibrate the compass, then try again.",
+    "zh-Hant": "尚未獲得有效朝向，請移動手機完成指南針校準後重試。"
+  },
+  "尚未设置": {
+    "en": "Not Set",
+    "zh-Hant": "尚未設置"
+  },
+  "已从模板新建项目": {
+    "en": "Project Created from Template",
+    "zh-Hant": "已從模板新建項目"
+  },
+  "已保存数据无法读取，操作已取消以保护原始数据": {
+    "en": "Unable to read saved data. The operation was canceled to protect it.",
+    "zh-Hant": "已保存數據無法讀取，操作已取消以保護原始數據"
+  },
+  "已复制诊断信息（不含精确坐标）": {
+    "en": "Diagnostics copied (without precise coordinates)",
+    "zh-Hant": "已複製診斷信息（不含精確座標）"
+  },
+  "已导入 {0} 个项目和 {1} 项资源。": {
+    "en": "Imported {0} projects and {1} library items.",
+    "zh-Hant": "已導入 {0} 個項目和 {1} 項資源。"
+  },
+  "已获取，设备未报告角度误差": {
+    "en": "Available; device did not report angular accuracy",
+    "zh-Hant": "已獲取，設備未報告角度誤差"
+  },
+  "当前朝向误差约 %.0f°，请远离磁性物体并校准指南针后重试。": {
+    "en": "Direction accuracy is about %.0f°. Move away from magnetic objects, calibrate the compass, then try again.",
+    "zh-Hant": "當前朝向誤差約 %.0f°，請遠離磁性物體並校準指南針後重試。"
+  },
+  "当前设备没有可用后置相机": {
+    "en": "No rear camera is available",
+    "zh-Hant": "當前設備沒有可用後置相機"
+  },
+  "拍摄单元 %02d，参考图 %d": {
+    "en": "Shot %02d, reference image %d",
+    "zh-Hant": "拍攝單元 %02d，參考圖 %d"
+  },
+  "拍摄失败，请重试：{0}": {
+    "en": "Capture failed. Try again: {0}",
+    "zh-Hant": "拍攝失敗，請重試：{0}"
+  },
+  "收藏夹关联缺失": {
+    "en": "A folder relationship is missing",
+    "zh-Hant": "收藏夾關聯缺失"
+  },
+  "收藏夹类型不匹配": {
+    "en": "Folder type mismatch",
+    "zh-Hant": "收藏夾類型不匹配"
+  },
+  "无可用定位来源": {
+    "en": "No location provider available",
+    "zh-Hant": "無可用定位來源"
+  },
+  "无效的图片标识": {
+    "en": "Invalid image identifier",
+    "zh-Hant": "無效的圖片標識"
+  },
+  "无法保存导入数据": {
+    "en": "Unable to save imported data",
+    "zh-Hant": "無法保存導入數據"
+  },
+  "无法保存导入项目": {
+    "en": "Unable to save imported project",
+    "zh-Hant": "無法保存導入項目"
+  },
+  "无法保存导出图片": {
+    "en": "Unable to save exported image",
+    "zh-Hant": "無法保存導出圖片"
+  },
+  "无法保存恢复的数据": {
+    "en": "Unable to save restored data",
+    "zh-Hant": "無法保存恢復的數據"
+  },
+  "无法保存拍摄照片": {
+    "en": "Unable to save captured photo",
+    "zh-Hant": "無法保存拍攝照片"
+  },
+  "无法保存照片：{0}": {
+    "en": "Unable to save photo: {0}",
+    "zh-Hant": "無法保存照片：{0}"
+  },
+  "无法保存：{0}": {
+    "en": "Unable to save: {0}",
+    "zh-Hant": "無法保存：{0}"
+  },
+  "无法创建导出文件夹": {
+    "en": "Unable to create export folder",
+    "zh-Hant": "無法創建導出文件夾"
+  },
+  "无法启动相机：{0}": {
+    "en": "Unable to start camera: {0}",
+    "zh-Hant": "無法啓動相機：{0}"
+  },
+  "无法拍摄：{0}": {
+    "en": "Unable to capture: {0}",
+    "zh-Hant": "無法拍攝：{0}"
+  },
+  "无法添加图片": {
+    "en": "Unable to add image",
+    "zh-Hant": "無法添加圖片"
+  },
+  "无法识别图片": {
+    "en": "Unrecognized image",
+    "zh-Hant": "無法識別圖片"
+  },
+  "无法读取图片": {
+    "en": "Unable to read image",
+    "zh-Hant": "無法讀取圖片"
+  },
+  "无法读取拍摄照片": {
+    "en": "Unable to read captured photo",
+    "zh-Hant": "無法讀取拍攝照片"
+  },
+  "无法读取文件": {
+    "en": "Unable to read file",
+    "zh-Hant": "無法讀取文件"
+  },
+  "无法转换为 iOS 类型：{0}": {
+    "en": "Unable to convert to iOS type: {0}",
+    "zh-Hant": "無法轉換爲 iOS 類型：{0}"
+  },
+  "旧项目包含空场景或同名场景，无法安全转换": {
+    "en": "The old project has empty or duplicate scene names and cannot be safely converted.",
+    "zh-Hant": "舊項目包含空場景或同名場景，無法安全轉換"
+  },
+  "时间超出范围": {
+    "en": "Time is out of range",
+    "zh-Hant": "時間超出範圍"
+  },
+  "未命名场景": {
+    "en": "Untitled Scene",
+    "zh-Hant": "未命名場景"
+  },
+  "未授权，请允许位置权限": {
+    "en": "Location permission is required",
+    "zh-Hant": "未授權，請允許位置權限"
+  },
+  "未知光线类型": {
+    "en": "Unknown lighting type",
+    "zh-Hant": "未知光線類型"
+  },
+  "未知备份类型": {
+    "en": "Unknown backup type",
+    "zh-Hant": "未知備份類型"
+  },
+  "未知景别": {
+    "en": "Unknown shot scale",
+    "zh-Hant": "未知景別"
+  },
+  "未知脚本状态": {
+    "en": "Unknown shot status",
+    "zh-Hant": "未知腳本狀態"
+  },
+  "未知资源类型": {
+    "en": "Unknown library item type",
+    "zh-Hant": "未知資源類型"
+  },
+  "未知项目状态": {
+    "en": "Unknown project status",
+    "zh-Hant": "未知項目狀態"
+  },
+  "模板内容不可用": {
+    "en": "Template content is unavailable",
+    "zh-Hant": "模板內容不可用"
+  },
+  "模板内容缺失": {
+    "en": "Template content is missing",
+    "zh-Hant": "模板內容缺失"
+  },
+  "模板脚本标识重复": {
+    "en": "Duplicate template shot identifiers",
+    "zh-Hant": "模板腳本標識重複"
+  },
+  "正在搜索，请到开阔处稍候": {
+    "en": "Searching. Wait in an open area.",
+    "zh-Hant": "正在搜索，請到開闊處稍候"
+  },
+  "正在获取定位与镜头朝向…": {
+    "en": "Acquiring location and camera direction…",
+    "zh-Hant": "正在獲取定位與鏡頭朝向…"
+  },
+  "没有可分享的文件": {
+    "en": "No files to share",
+    "zh-Hant": "沒有可分享的文件"
+  },
+  "清单条目过多": {
+    "en": "Too many manifest entries",
+    "zh-Hant": "清單條目過多"
+  },
+  "窗口内容 {0}×{1}px，屏幕起点 {2},{3}；系统栏 {4}；键盘 {5}": {
+    "en": "Content {0}×{1}px, screen origin {2},{3}; system bars {4}; keyboard {5}",
+    "zh-Hant": "窗口內容 {0}×{1}px，屏幕起點 {2},{3}；系統欄 {4}；鍵盤 {5}"
+  },
+  "等待传感器数据或指南针校准": {
+    "en": "Waiting for sensor data or compass calibration",
+    "zh-Hant": "等待傳感器數據或指南針校準"
+  },
+  "精度未知，请校准指南针": {
+    "en": "Accuracy unknown; calibrate the compass",
+    "zh-Hant": "精度未知，請校準指南針"
+  },
+  "精度约 {0} 米 · {1} 秒前 · {2}": {
+    "en": "Accuracy ~{0} m · {1} s ago · {2}",
+    "zh-Hant": "精度約 {0} 米 · {1} 秒前 · {2}"
+  },
+  "系统定位已关闭": {
+    "en": "System location is off",
+    "zh-Hant": "系統定位已關閉"
+  },
+  "脚本 %02d": {
+    "en": "Shot %02d",
+    "zh-Hant": "腳本 %02d"
+  },
+  "脚本引用的场景不存在": {
+    "en": "A scene referenced by a shot is missing",
+    "zh-Hant": "腳本引用的場景不存在"
+  },
+  "脚本数组无效": {
+    "en": "Invalid shot array",
+    "zh-Hant": "腳本數組無效"
+  },
+  "脚本标识重复或为空": {
+    "en": "A shot identifier is empty or duplicated",
+    "zh-Hant": "腳本標識重複或爲空"
+  },
+  "色轮，也可使用下方 HSL 滑块": {
+    "en": "Color wheel; HSL sliders are also available below",
+    "zh-Hant": "色輪，也可使用下方 HSL 滑塊"
+  },
+  "设备尚未提供可靠朝向，请校准指南针后重试。": {
+    "en": "No reliable direction yet. Calibrate the compass, then try again.",
+    "zh-Hant": "設備尚未提供可靠朝向，請校準指南針後重試。"
+  },
+  "设备没有可用的绝对方向传感器": {
+    "en": "No absolute direction sensor is available",
+    "zh-Hant": "設備沒有可用的絕對方向傳感器"
+  },
+  "误差约 ±%.0f°": {
+    "en": "Accuracy ±%.0f°",
+    "zh-Hant": "誤差約 ±%.0f°"
+  },
+  "请允许位置权限，以记录拍摄机位。": {
+    "en": "Allow location access to record the scouting position.",
+    "zh-Hant": "請允許位置權限，以記錄拍攝機位。"
+  },
+  "请允许相机权限以拍摄踩点图。": {
+    "en": "Allow camera access to take scouting photos.",
+    "zh-Hant": "請允許相機權限以拍攝踩點圖。"
+  },
+  "请在项目中选择存为项目模板。": {
+    "en": "Choose Save as Project Template in a project.",
+    "zh-Hant": "請在項目中選擇存爲項目模板。"
+  },
+  "请将后置镜头大致水平对准主体": {
+    "en": "Aim the rear camera at the subject, roughly level.",
+    "zh-Hant": "請將後置鏡頭大致水平對準主體"
+  },
+  "请直接拍摄踩点图，并允许定位与指南针访问后再使用太阳方向计算。相册图片不能代表当前镜头朝向。": {
+    "en": "Take a scouting photo with location and compass access to calculate sun direction. Gallery images do not contain the current camera direction.",
+    "zh-Hant": "請直接拍攝踩點圖，並允許定位與指南針訪問後再使用太陽方向計算。相冊圖片不能代表當前鏡頭朝向。"
+  },
+  "资源关联缺失": {
+    "en": "A library item relationship is missing",
+    "zh-Hant": "資源關聯缺失"
+  },
+  "资源库数组无效": {
+    "en": "Invalid library array",
+    "zh-Hant": "資源庫數組無效"
+  },
+  "踩点坐标或方向无效": {
+    "en": "Invalid scouting coordinates or direction",
+    "zh-Hant": "踩點座標或方向無效"
+  },
+  "踩点诊断": {
+    "en": "Scouting Diagnostics",
+    "zh-Hant": "踩點診斷"
+  },
+  "输入内容": {
+    "en": "Enter content",
+    "zh-Hant": "輸入內容"
+  },
+  "造型方案": {
+    "en": "Styling Plan",
+    "zh-Hant": "造型方案"
+  },
+  "造型素材标识为空": {
+    "en": "A styling image identifier is empty",
+    "zh-Hant": "造型素材標識爲空"
+  },
+  "造型素材类型为空": {
+    "en": "A styling image type is empty",
+    "zh-Hant": "造型素材類型爲空"
+  },
+  "道具 · {0}": {
+    "en": "Props · {0}",
+    "zh-Hant": "道具 · {0}"
+  },
+  "配饰": {
+    "en": "Accessories",
+    "zh-Hant": "配飾"
+  },
+  "鞋履": {
+    "en": "Shoes",
+    "zh-Hant": "鞋履"
+  },
+  "拍摄单元 {0}，参考图 {1}": {
+    "en": "Shot {0}, reference image {1}",
+    "zh-Hant": "拍攝單元 {0}，參考圖 {1}"
+  },
+  "{0}_脚本_{1}.jpg": {
+    "en": "{0}_Shot_{1}.jpg",
+    "zh-Hant": "{0}_腳本_{1}.jpg"
+  },
+  "{0}_长图_{1}.jpg": {
+    "en": "{0}_Long_Image_{1}.jpg",
+    "zh-Hant": "{0}_長圖_{1}.jpg"
+  },
+  "{0}_项目准备_{1}.jpg": {
+    "en": "{0}_preparation_{1}.jpg",
+    "zh-Hant": "{0}_項目準備_{1}.jpg"
+  },
+  "当前朝向误差约为 {0}°，请远离磁性物体并校准指南针后重试。": {
+    "en": "Heading uncertainty is about {0}°. Move away from magnetic objects, calibrate the compass, and try again.",
+    "zh-Hant": "當前朝向誤差約爲 {0}°，請遠離磁性物體並校準指南針後重試。"
+  },
+  "坐标 {0}, {1}": {
+    "en": "Coordinates {0}, {1}",
+    "zh-Hant": "座標 {0}, {1}"
+  },
+  "方向误差约 ±{0}°": {
+    "en": "Direction accuracy ±{0}°",
+    "zh-Hant": "方向誤差約 ±{0}°"
+  },
+  "真北朝向 {0}° · 可计算太阳方向": {
+    "en": "True north {0}° · Ready for sun planning",
+    "zh-Hant": "真北朝向 {0}° · 可計算太陽方向"
+  },
+  "镜头朝向 {0}°（真北）": {
+    "en": "Camera direction {0}° (true north)",
+    "zh-Hant": "鏡頭朝向 {0}°（真北）"
+  },
+  "当前朝向误差约 {0}°，请远离磁性物体并校准指南针后重试。": {
+    "en": "Direction accuracy is about {0}°. Move away from magnetic objects, calibrate the compass, then try again.",
+    "zh-Hant": "當前朝向誤差約 {0}°，請遠離磁性物體並校準指南針後重試。"
+  },
+  "误差约 ±{0}°": {
+    "en": "Accuracy ±{0}°",
+    "zh-Hant": "誤差約 ±{0}°"
+  },
+  "开源许可": {
+    "en": "Open Source License",
+    "zh-Hant": "開源許可"
+  },
+  "源代码": {
+    "en": "Source Code",
+    "zh-Hant": "原始碼"
+  }
+}

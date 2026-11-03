@@ -1,0 +1,13 @@
+Noto Sans SC SemiBold
+Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font
+Name 'Source'.
+Licensed under the SIL Open Font License, Version 1.1.
+Source: https://github.com/notofonts/noto-cjk and Google Fonts
+Generated as a static wght 600 instance from the official Noto Sans SC
+variable font.
+
+Noto Serif SC Regular
+Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font
+Name 'Source'.
+Licensed under the SIL Open Font License, Version 1.1.
+Source: https://github.com/notofonts/noto-cjk and Google Fonts
